@@ -1,0 +1,394 @@
+{
+  "slug": "kufer-software",
+  "name": "Kufer Software",
+  "legalName": "Kufer Software GmbH",
+  "location": {
+    "city": "Mühldorf am Inn",
+    "region": "Oberbayern",
+    "state": "Bayern",
+    "address": "Oderstraße 7, 84453 Mühldorf am Inn",
+    "population": 22739,
+    "nearestCities": [
+      { "name": "München", "distanceKm": 71 },
+      { "name": "Rosenheim", "distanceKm": 40 },
+      { "name": "Passau", "distanceKm": 100 },
+      { "name": "Salzburg", "distanceKm": 85 }
+    ]
+  },
+  "founded": 1984,
+  "employees": {
+    "current": 69,
+    "previous": 60,
+    "previousYear": 2022
+  },
+  "product": {
+    "name": "KuferSQL",
+    "description": "ERP-System für die Erwachsenenbildung — Kurs- und Seminarverwaltung, Teilnehmermanagement, Dozentenmanagement, BAMF-Integration, Raumplanung, Ressourcenmanagement",
+    "techStack": ["ASP.NET", "C#", ".NET", "SQL Server", "JavaScript"],
+    "weaknesses": [
+      "Keine AI-Funktionen in der Kernplattform",
+      "Keine Cloud-native Architektur — klassische On-Premise-Installation",
+      "75% Marktanteil bedeutet: jeder Wettbewerber zielt auf Ihre Kunden",
+      "10 offene Stellen bei ~58 Mitarbeitern — fast 20% der Belegschaft fehlt",
+      "Profit-Transfer-Vertrag mit FORUM Software VI GmbH — Gewinne fließen an die Holding"
+    ],
+    "customerQuotes": [
+      {
+        "text": "Die Kolleginnen und Kollegen am Telefon sind sehr freundlich und helfen einem stets weiter, auch wenn man mal ein Wissensloch hat.",
+        "source": "VHS-Anwender, GoWork.de"
+      },
+      {
+        "text": "Kufer Software wird für die kollegiale und unterstützende Arbeitsatmosphäre gelobt.",
+        "source": "Mitarbeiter-Feedback, Indeed.com"
+      }
+    ],
+    "rating": {
+      "score": 3.8,
+      "outOf": 5,
+      "reviewCount": 5,
+      "platform": "GoWork.de"
+    }
+  },
+  "management": {
+    "ceo": "Bernhard Pfleger",
+    "team": ["Burkhard Wittek"]
+  },
+  "ownership": {
+    "parent": "FORUM Family Office (via FORUM Software Mittelstandsholding SE / FORUM Software VI GmbH)",
+    "parentDescription": "Münchner Family Office mit 45 Beteiligungen in den Bereichen Gesundheit, Software und Fluidmanagement. Verwaltet Vermögen einer Münchner Familie seit 1990. Software-Portfolio umfasst u.a. HSH Software (Marktführer Einwohnermeldewesen, 72%), ab-data (Kommunalfinanzsoftware), SoftDeCC (Lernmanagement).",
+    "since": 2022
+  },
+  "financials": {
+    "year": 2024,
+    "totalAssets": 3912814,
+    "cash": 1152242,
+    "retainedEarnings": 3275836,
+    "liabilities": 418212,
+    "shareholderDebt": 223096
+  },
+  "financialsHistory": [
+    {
+      "year": 2024,
+      "totalAssets": 3912814,
+      "cash": 1152242,
+      "retainedEarnings": 3275836,
+      "liabilities": 418212,
+      "shareholderDebt": 223096,
+      "employees": 69
+    },
+    {
+      "year": 2023,
+      "totalAssets": 6934197,
+      "cash": 1721982,
+      "retainedEarnings": 3275836,
+      "liabilities": 3040356,
+      "shareholderDebt": 2854961,
+      "employees": 69
+    },
+    {
+      "year": 2022,
+      "totalAssets": 4489603,
+      "cash": 1985015,
+      "retainedEarnings": 3275836,
+      "liabilities": 559191,
+      "shareholderDebt": 0,
+      "employees": 60
+    },
+    {
+      "year": 2021,
+      "totalAssets": 1159839,
+      "cash": 676855,
+      "retainedEarnings": 636492,
+      "liabilities": 343168,
+      "shareholderDebt": 0
+    }
+  ],
+  "openPositions": [
+    {
+      "title": ".NET C#-Entwickler (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 55000,
+      "aiAlternative": "AI-augmented .NET Development — Claude Code & Copilot verdoppeln den Output",
+      "aiReplaceability": 45,
+      "savingsNote": "Ihre bestehenden C#-Entwickler liefern doppelt so schnell mit AI Pair Programming. Cursor, Copilot und Claude Code automatisieren 40-60% der .NET-Routinearbeit — von Unit Tests bis SQL-Queries."
+    },
+    {
+      "title": "Fullstack-Entwickler (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 58000,
+      "aiAlternative": "AI-gestützte Fullstack-Entwicklung — 2x Output pro Entwickler",
+      "aiReplaceability": 45,
+      "savingsNote": "Fullstack-Entwickler in Oberbayern zu finden ist nahezu unmöglich — München zahlt 20-30% mehr. AI Pair Programming macht jeden vorhandenen Entwickler doppelt so produktiv."
+    },
+    {
+      "title": "Backend-Entwickler (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 55000,
+      "aiAlternative": "AI-gestützte Backend-Automatisierung — API-Generierung, Datenbankmigrationen",
+      "aiReplaceability": 50,
+      "savingsNote": "AI generiert CRUD-APIs, Datenbankmigrationen und Schnittstellen zu vhs.cloud oder BAMF automatisch. Ihr Backend-Team konzentriert sich auf Architekturentscheidungen."
+    },
+    {
+      "title": "Software-Developer (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 52000,
+      "aiAlternative": "AI Code Assistant — trainiert auf KuferSQL-Codebasis",
+      "aiReplaceability": 50,
+      "savingsNote": "Ein AI-Assistent, trainiert auf Ihrer gesamten KuferSQL-Codebasis, beantwortet Architektur-Fragen, generiert Code und schreibt Tests — 24/7 verfügbar, ohne Einarbeitungszeit."
+    },
+    {
+      "title": "Mitarbeiter Kundensupport (m/w/d) im 1st und 2nd-Level im Webbereich",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "support",
+      "postedAgo": "",
+      "estimatedSalary": 40000,
+      "aiAlternative": "AI Support Agent — trainiert auf KuferSQL- und KuferWEB-Dokumentation",
+      "aiReplaceability": 80,
+      "savingsNote": "80% aller Kundenanfragen zu KuferWEB betreffen Konfiguration und Bedienung. Ein AI-Agent beantwortet diese sofort — 24/7, in perfektem Deutsch, ohne Wartezeit. Bei 1.900+ Kunden ein enormer Hebel."
+    },
+    {
+      "title": "Software-Tester (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 45000,
+      "aiAlternative": "AI-gestützte Testautomatisierung — automatische Testgenerierung für KuferSQL",
+      "aiReplaceability": 70,
+      "savingsNote": "AI generiert automatisch Regressionstests, End-to-End-Tests und Testdaten für KuferSQL. Jede Code-Änderung wird sofort gegen Tausende Szenarien getestet — schneller und gründlicher als manuell."
+    },
+    {
+      "title": "Leitung für die Kundenbetreuung (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "management",
+      "postedAgo": "",
+      "estimatedSalary": 65000,
+      "aiAlternative": "AI-gestütztes Customer Success Management — Dashboards, Churn-Prediction, automatisierte Eskalation",
+      "aiReplaceability": 25,
+      "savingsNote": "Diese Rolle bleibt — aber AI übernimmt Ticket-Triage, Kundenzufriedenheitsanalyse und proaktive Churn-Prävention. Die Leitung konzentriert sich auf strategische Kundenbeziehungen statt operative Feuerwehr."
+    },
+    {
+      "title": "IT-Produktmanagement (m/w/d) — B2B Software & UX",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "management",
+      "postedAgo": "",
+      "estimatedSalary": 62000,
+      "aiAlternative": "AI-gestützte Produktanalyse — Feature-Priorisierung durch Nutzungsdatenanalyse",
+      "aiReplaceability": 30,
+      "savingsNote": "AI analysiert Nutzungsverhalten von 1.900 KuferSQL-Kunden, identifiziert Feature-Gaps und priorisiert die Roadmap datenbasiert. Der Produktmanager trifft bessere Entscheidungen in kürzerer Zeit."
+    },
+    {
+      "title": "DevOps Engineer (m/w/d)",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 60000,
+      "aiAlternative": "AI-gestützte Infrastructure-as-Code — automatisierte CI/CD und Monitoring",
+      "aiReplaceability": 55,
+      "savingsNote": "AI automatisiert CI/CD-Pipelines, Infrastructure-as-Code und Monitoring für KuferSQL-Deployments. Besonders relevant für den Übergang von On-Premise zu Cloud-Hosting."
+    },
+    {
+      "title": "Kundenbetreuer (m/w/d) im 1st-Level-Support",
+      "location": "Mühldorf am Inn, Vor Ort/Hybrid",
+      "type": "support",
+      "postedAgo": "",
+      "estimatedSalary": 38000,
+      "aiAlternative": "AI Chatbot — 1st-Level-Support für KuferSQL vollautomatisiert",
+      "aiReplaceability": 85,
+      "savingsNote": "1st-Level-Support ist zu 85% automatisierbar: Passwort-Resets, Konfigurationsfragen, Standardprozeduren. Bei 1.900+ Kunden mit 15.000+ Arbeitsplätzen spart ein AI-Agent 2-3 Vollzeitstellen."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "cmxKonzepte (cmxOrganize)",
+      "customers": "140+",
+      "employees": "21",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 1,
+      "cloudReady": 3,
+      "highlight": "Cloud-native seit 2009, browserbasiert, modulare SaaS-Lösung, wächst aggressiv im VHS-Segment"
+    },
+    {
+      "name": "ITEM KG (Lissy.Net)",
+      "customers": "250+",
+      "employees": "15-20",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 0,
+      "cloudReady": 2,
+      "highlight": "Starke VHS-Präsenz, vhs.Connect CMS, vhs.Layout Programmheft-Lösung, integriert mit vhs-Kursfinder"
+    },
+    {
+      "name": "Advellence (Information Manager)",
+      "customers": "150+",
+      "employees": "50+",
+      "owner": "Inhabergeführt (Schweiz)",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "Schweizer Qualität, multilingual, Microsoft-Partner, starke Schulverwaltung, expandiert in VHS-Markt"
+    },
+    {
+      "name": "Veasy (Hofmann Büroorganisation)",
+      "customers": "Gering",
+      "employees": "Klein",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 0,
+      "cloudReady": 2,
+      "highlight": "Open Source (AGPL), webbasiert, PHP/MySQL, Kostenargument gegen kommerzielle Anbieter"
+    }
+  ],
+  "market": {
+    "name": "Volkshochschul- und Weiterbildungssoftware Deutschland",
+    "totalProviders": 8,
+    "trends": [
+      "827 Volkshochschulen in Deutschland mit über 2.700 Außenstellen — stabiler, öffentlich finanzierter Markt",
+      "Cloud-Migration wird zum Standard — cmxOrganize ist seit 2009 Cloud-native, KuferSQL bleibt On-Premise",
+      "Digitalisierung der Erwachsenenbildung beschleunigt sich: vhs.cloud, digitale Programmhefte, Online-Buchung",
+      "BAMF-Integrationskurse als Wachstumstreiber — strenge Dokumentationsanforderungen favorisieren integrierte Software",
+      "Demografischer Wandel erhöht Nachfrage nach Weiterbildung — VHS-Teilnehmerzahlen im Aufwärtstrend (DVV 2024)"
+    ],
+    "stats": [
+      { "label": "Volkshochschulen in Deutschland", "value": "827" },
+      { "label": "VHS-Außenstellen", "value": "2.700+" },
+      { "label": "KuferSQL Marktanteil VHS", "value": "~75%" },
+      { "label": "KuferSQL Kunden gesamt", "value": "1.900+" },
+      { "label": "KuferSQL Arbeitsplätze", "value": "15.000+" }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "109.000+",
+    "talentShortageRate": "79%",
+    "specificChallenges": [
+      "10 offene Stellen bei ~58 Mitarbeitern — fast 20% der Belegschaft fehlt. Das ist kein Wachstum, das ist Substanzverlust.",
+      "Mühldorf am Inn: 22.739 Einwohner, 71 km östlich von München — IT-Talente pendeln lieber in die Landeshauptstadt",
+      "München zahlt .NET-Entwicklern 70.000-85.000 EUR — Kufer kann in Mühldorf maximal 55.000-60.000 EUR bieten",
+      "4 von 10 offenen Stellen sind Entwicklerpositionen (.NET, Fullstack, Backend) — der Kern der Produktentwicklung ist unterbesetzt",
+      "42% der Unternehmen erwarten durch KI zusätzlichen IT-Fachkräftebedarf (Bitkom 2025) — die Lücke wird größer, nicht kleiner"
+    ]
+  },
+  "kununu": {
+    "score": 3.5,
+    "outOf": 5,
+    "reviewCount": 5,
+    "highlights": [
+      { "label": "Arbeitsatmosphäre", "score": 3.8 },
+      { "label": "Work-Life-Balance", "score": 3.7 },
+      { "label": "Karriere/Weiterbildung", "score": 2.8 },
+      { "label": "Gehalt/Sozialleistungen", "score": 3.0 },
+      { "label": "Kommunikation", "score": 3.2 }
+    ],
+    "quotes": [
+      {
+        "text": "Kollegiale und unterstützende Arbeitsatmosphäre, flexible Arbeitszeiten.",
+        "sentiment": "positive"
+      },
+      {
+        "text": "Begrenzte Aufstiegsmöglichkeiten und Führungspositionen.",
+        "sentiment": "negative"
+      },
+      {
+        "text": "Gehalt kann unter dem Branchendurchschnitt liegen, besonders für Berufseinsteiger.",
+        "sentiment": "negative"
+      }
+    ],
+    "_note": "kununu.com war nicht direkt abrufbar. Bewertungsdaten stammen aus Indeed.com und GoWork.de. Score und Kategorien sind geschätzt auf Basis verfügbarer Mitarbeiter-Feedbacks."
+  },
+  "linkedinPresence": {
+    "employeeCount": 58,
+    "employeeGrowth": "Stabil",
+    "ceoLastPost": "Nicht verfügbar",
+    "ceoPostTopic": "Bernhard Pfleger seit Oktober 2025 — LinkedIn-Profil vorhanden, Aktivität unklar",
+    "departures": [
+      {
+        "name": "Franz Josef Seidl",
+        "previousRole": "Geschäftsführer",
+        "newCompany": "Unbekannt",
+        "when": "Oktober 2025"
+      },
+      {
+        "name": "Anton Kufer",
+        "previousRole": "Gründer & Geschäftsführer",
+        "newCompany": "Ruhestand/Berater",
+        "when": "Februar 2023"
+      }
+    ]
+  },
+  "googleTrends": {
+    "product": "KuferSQL",
+    "competitor": "cmxOrganize",
+    "productScore": 15,
+    "competitorScore": 5,
+    "summary": "Beide Produkte haben sehr geringes Suchvolumen. KuferSQL hat leichten Vorsprung durch etablierte Marktposition, aber cmxOrganize wächst als Cloud-Alternative. Der VHS-Softwaremarkt ist eine Nische mit begrenzter öffentlicher Sichtbarkeit.",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Landkreis Mühldorf a.Inn",
+    "openITRoles": 45,
+    "averageVacancyDays": 180,
+    "source": "Bundesagentur für Arbeit, Engpassanalyse 2025 (Softwareentwicklung, Experten)"
+  },
+  "financialsStory": [
+    "3,9 Mio. EUR Bilanzsumme 2024 — ein drastischer Rückgang von 6,9 Mio. EUR im Vorjahr (-44%). Der Gewinnabführungsvertrag mit FORUM Software VI GmbH sorgt dafür, dass Jahresüberschuss = 0,00 EUR. Die Gewinne fließen komplett an die Holding.",
+    "1,15 Mio. EUR Cash bei 418.000 EUR Verbindlichkeiten — operativ gesund. Aber: 2023 standen noch 2,85 Mio. EUR Gesellschafterdarlehen in den Büchern, 2024 nur noch 223.000 EUR. Massive Forderungsrückgänge (von 5 Mio. auf 2,6 Mio.) deuten auf konzerninterne Verrechnungen hin.",
+    "69 Mitarbeiter (2024), gewachsen von 60 (2022). Aber immer noch 10 offene Stellen. €6 Mio. Umsatz mit 1.900 Kunden — die Personaldecke bleibt dünn, und cmxOrganize wächst als Cloud-Alternative."
+  ],
+  "plan": [
+    {
+      "title": "KUFERSQL SUPPORT",
+      "timeline": "Monat 1–3",
+      "tagline": "1.900 Kunden betreuen sich selbst — mit AI-Hilfe.",
+      "items": [
+        "AI Support Agent trainiert auf der gesamten KuferSQL-Dokumentation, KuferWEB-Konfiguration und BAMF-Schnittstelle",
+        "Automatische Beantwortung der häufigsten Fragen: Kursbuchung, Teilnehmerverwaltung, Dozentenabrechnungen, Raumplanung",
+        "Onboarding-Assistent für neue VHS-Mitarbeiter: Einarbeitung in KuferSQL in Tagen statt Wochen",
+        "Ihre 2 offenen Support-Stellen werden sofort entlastet — der AI-Agent übernimmt 80% der 1st-Level-Tickets"
+      ],
+      "result": "Support-Kapazität verdreifacht ohne eine einzige Neueinstellung"
+    },
+    {
+      "title": "KUFERSQL DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "58 Mitarbeiter liefern wie 90.",
+      "items": [
+        "AI Pair Programming für Ihr .NET/C#-Team — Claude Code und Copilot automatisieren 40-60% der Routinearbeit",
+        "Automatisierte Testgenerierung für die gesamte KuferSQL-Codebasis — Regressionstests, API-Tests, End-to-End",
+        "AI-gestützte Code-Dokumentation: Jede Änderung wird automatisch dokumentiert, kein Wissen geht verloren bei Personalwechsel",
+        "DevOps-Automatisierung: CI/CD-Pipeline und Infrastructure-as-Code für beschleunigte Release-Zyklen"
+      ],
+      "result": "Release-Zyklen halbiert, 4 offene Entwicklerstellen durch AI-Produktivität kompensiert"
+    },
+    {
+      "title": "KUFERSQL CLOUD & AI",
+      "timeline": "Monat 9–18",
+      "tagline": "KuferSQL wird Cloud-native — bevor cmxOrganize Ihre Kunden übernimmt.",
+      "items": [
+        "Schrittweise Migration der .NET-Architektur zu Cloud-fähigem SaaS-Modell — Azure oder AWS",
+        "AI-gestützte Kursplanung: Automatische Optimierung von Kursprogrammen basierend auf Teilnehmerdaten und Trends",
+        "Intelligente Dozentenzuordnung: AI matched Dozenten zu Kursen basierend auf Qualifikation, Verfügbarkeit und Bewertungen",
+        "Predictive Analytics für VHS-Leiter: Welche Kurse werden nachgefragt, wo drohen Absagen, wo fehlen Räume"
+      ],
+      "result": "KuferSQL wird die erste AI-gestützte VHS-Management-Plattform in Deutschland"
+    }
+  ],
+  "killerInsight": {
+    "text": "10 offene Stellen bei 58 Mitarbeitern. Gewinnabführungsvertrag mit der FORUM-Holding. Und der einzige Cloud-native Wettbewerber wächst auf 140 Kunden — während KuferSQL On-Premise bleibt.",
+    "source": "kufer.de/karriere (10 Stellenangebote), North Data (Gewinnabführungsvertrag FORUM Software VI GmbH), cmxKonzepte.de (140+ Kunden)"
+  },
+  "pitchType": "talent-bleeding",
+  "accent": "#0077b6",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? cmxOrganize ist seit 2009 Cloud-native und wächst aggressiv. Bei 140+ Kunden heute erreichen sie bis 2028 die kritische Masse, um VHS-Leiter mit einem modernen Cloud-Argument von KuferSQL abzuwerben. Jede VHS, die zu cmxOrganize wechselt, ist auf Jahrzehnte verloren.",
+  "endgameScenarioA": [
+    "cmxOrganize ist Cloud-native, browserbasiert und modular. Jüngere VHS-Leitungen erwarten genau das — keine lokale Installation, kein IT-Administrator vor Ort. Bis 2028 hat cmxOrganize genug Referenzkunden, um als ernstzunehmende Alternative wahrgenommen zu werden.",
+    "Ihre 10 offenen Stellen zeigen: Sie finden keine Entwickler in Mühldorf am Inn. München zahlt 20-30% mehr. Ohne AI-Augmentierung liefert Ihr Team weniger Features, langsamere Updates und schwächeren Support — während der Wettbewerb aufrüstet.",
+    "Der Gewinnabführungsvertrag mit FORUM Software VI GmbH sichert Rendite für die Holding, aber wer investiert in die Cloud-Migration? Ohne massive Produktinvestition wird KuferSQL zum Legacy-System — und 75% Marktanteil sind nichts wert, wenn die Kunden zu einer Cloud-Lösung wechseln."
+  ],
+  "ctaEmail": "",
+  "ctaPhone": "+49 8631 185990"
+}

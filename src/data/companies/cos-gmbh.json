@@ -1,0 +1,310 @@
+{
+  "slug": "cos-gmbh",
+  "name": "COS GmbH",
+  "legalName": "COS Gesellschaft für Computersysteme, Organisation und Softwareentwicklung mbH",
+  "location": {
+    "city": "Oberkirch",
+    "region": "Ortenau",
+    "state": "Baden-Württemberg",
+    "address": "Raiffeisenstraße 21, 77704 Oberkirch",
+    "population": 20000,
+    "nearestCities": [
+      { "name": "Offenburg", "distanceKm": 12 },
+      { "name": "Straßburg", "distanceKm": 35 },
+      { "name": "Karlsruhe", "distanceKm": 75 },
+      { "name": "Freiburg", "distanceKm": 65 }
+    ]
+  },
+  "founded": 1982,
+  "employees": {
+    "current": 53,
+    "previous": 47,
+    "previousYear": 2022
+  },
+  "product": {
+    "name": "COSware",
+    "description": "Modulare Software für Fuhrparkmanagement, Werkstattsteuerung, Tourenplanung, Betriebshofmanagement und Transportlogistik",
+    "techStack": ["Delphi", "C#", ".NET", "SQL", "Web-Technologien"],
+    "weaknesses": [
+      "Keine KI-Funktionen im Produktportfolio",
+      "Keine Cloud-native/SaaS-Architektur",
+      "Legacy-Kernsystem seit über 40 Jahren gewachsen",
+      "Keine KI-gestützte Tourenoptimierung in Echtzeit",
+      "Keine Predictive-Maintenance-Integration",
+      "Kleine Entwicklungsmannschaft gegen kapitalkräftige Wettbewerber"
+    ],
+    "customerQuotes": [
+      {
+        "text": "Das Tourenplanungssystem COSware wird seit 2012 im Großhandelsbereich der SPAR Austria Gruppe eingesetzt. COSware berechnet die kostengünstigsten Fahrrouten für die Versorgung von über 1.600 SPAR-, EUROSPAR- und INTERSPAR-Märkten.",
+        "source": "SPAR Österreich Gruppe, Pressemitteilung openPR"
+      },
+      {
+        "text": "REWE entscheidet sich für COSware als Logistik- und Fuhrparksoftware.",
+        "source": "REWE Group, logworld.de"
+      }
+    ],
+    "rating": {
+      "score": 0,
+      "outOf": 5,
+      "reviewCount": 0,
+      "platform": "Keine öffentlichen Bewertungen auf Capterra/G2 verfügbar"
+    }
+  },
+  "management": {
+    "ceo": "Roland Baier",
+    "team": ["Dr. Marco Wittigayer"]
+  },
+  "ownership": {
+    "parent": null,
+    "parentDescription": "Inhabergeführtes Familienunternehmen seit 1982",
+    "since": null
+  },
+  "financials": {
+    "year": 2024,
+    "totalAssets": 4994587,
+    "cash": 1751987,
+    "retainedEarnings": 776529,
+    "liabilities": 1191821,
+    "shareholderDebt": 0
+  },
+  "financialsHistory": [
+    {
+      "year": 2024,
+      "totalAssets": 4994587,
+      "cash": 1751987,
+      "retainedEarnings": 776529,
+      "liabilities": 1191821,
+      "shareholderDebt": 0,
+      "employees": 53,
+      "jahresueberschuss": 2303676
+    },
+    {
+      "year": 2023,
+      "totalAssets": 4483413,
+      "cash": 891965,
+      "retainedEarnings": 851906,
+      "liabilities": 1271720,
+      "shareholderDebt": 0,
+      "employees": 53,
+      "jahresueberschuss": 1724623
+    },
+    {
+      "year": 2022,
+      "totalAssets": 4729182,
+      "cash": 1301866,
+      "retainedEarnings": 780183,
+      "liabilities": 1324116,
+      "shareholderDebt": 0,
+      "employees": 47,
+      "jahresueberschuss": 2171722
+    },
+    {
+      "year": 2021,
+      "totalAssets": 5300683,
+      "cash": 1740352,
+      "retainedEarnings": 654705,
+      "liabilities": 1582869,
+      "shareholderDebt": 0,
+      "jahresueberschuss": 2525479
+    }
+  ],
+  "openPositions": [
+    {
+      "title": "Full-Stack Softwareentwickler (m/w/d)",
+      "location": "Oberkirch, Hybrid",
+      "type": "development",
+      "postedAgo": "Aktuell auf join.com",
+      "estimatedSalary": 58000,
+      "aiAlternative": "AI-augmented Full-Stack Development — 2x Output pro Entwickler mit AI Pair Programming",
+      "aiReplaceability": 45,
+      "savingsNote": "In Oberkirch konkurrieren Sie mit Offenburg, Karlsruhe und Straßburg um Full-Stack-Entwickler. AI Pair Programming (Cursor, Copilot, Claude Code) verdoppelt die Produktivität Ihrer bestehenden Entwickler und macht die Stelle überflüssig."
+    },
+    {
+      "title": "IT-Softwaresupport Logistik & Tourenplanung & Werkstatt (m/w/d)",
+      "location": "Oberkirch, Hybrid",
+      "type": "support",
+      "postedAgo": "Aktuell auf join.com",
+      "estimatedSalary": 42000,
+      "aiAlternative": "AI Support Agent — trainiert auf COSware-Dokumentation, Tourenplanung und Werkstattmodulen",
+      "aiReplaceability": 80,
+      "savingsNote": "80% aller Supportanfragen zu COSware betreffen Konfiguration, Tourenplanung-Parameter und Werkstattmodul-Einstellungen. Ein AI-Agent beantwortet diese sofort — 24/7, in Deutsch und Englisch. Ihre 800+ Kunden warten nicht mehr."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Webfleet (Bridgestone)",
+      "customers": "50.000+",
+      "employees": "1.000+",
+      "owner": "Bridgestone Corporation",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "AI-gestützter Fleet Advisor, Predictive Maintenance, AI Video-Telematik, Cloud-native, 50.000+ Kunden weltweit"
+    },
+    {
+      "name": "Shiftmove (Vimcar + Avrios)",
+      "customers": "40.000+",
+      "employees": "250+",
+      "owner": "Battery Ventures (PE)",
+      "aiMaturity": 2,
+      "cloudReady": 3,
+      "highlight": "Cloud-SaaS, €200 Mio. Übernahme 2023, 40.000+ Kunden, automatisierte Compliance und Kostenanalyse"
+    },
+    {
+      "name": "Carano Software Solutions",
+      "customers": "500+",
+      "employees": "52",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "Fleet+ Software, Spezialist für Großflotten und Leasinggesellschaften, 30+ Jahre Erfahrung, Standort Berlin"
+    },
+    {
+      "name": "Fleetboard (Daimler Truck)",
+      "customers": "Tausende",
+      "employees": "Konzern",
+      "owner": "Daimler Truck AG",
+      "aiMaturity": 2,
+      "cloudReady": 3,
+      "highlight": "OEM-integrierte Telematik, Echtzeit-Fahrzeugdaten, Konzernressourcen, tiefe LKW-Integration"
+    },
+    {
+      "name": "FleetComplete / ZF Openmatics",
+      "customers": "800+",
+      "employees": "350+",
+      "owner": "ZF Friedrichshafen / Volaris",
+      "aiMaturity": 2,
+      "cloudReady": 3,
+      "highlight": "IoT-Plattform, internationale Expansion, KI-gestützte Routenoptimierung, OEM-Partnerschaften"
+    }
+  ],
+  "market": {
+    "name": "Fuhrpark- und Flottenmanagement-Software Deutschland",
+    "totalProviders": 30,
+    "trends": [
+      "Europäischer Flottenmanagement-Markt wächst 13,1% jährlich auf $21,9 Mrd. bis 2030",
+      "Cloud-SaaS wird Standard — Shiftmove und Webfleet setzen den Maßstab",
+      "KI-gestützte Tourenoptimierung und Predictive Maintenance werden Pflichtfunktionen",
+      "Elektrifizierung von Flotten erfordert neue Software-Module für Lademanagement",
+      "Telematik-Integration und Echtzeit-Datenanalyse als Differenzierungsmerkmal",
+      "Konsolidierungswelle: Battery Ventures kauft Vimcar+Avrios für €200 Mio."
+    ],
+    "stats": [
+      { "label": "Europa-Markt CAGR", "value": "13,1%" },
+      { "label": "Globales Marktvolumen 2025", "value": "$32,9 Mrd." },
+      { "label": "Software-Segment CAGR", "value": "17,1%" },
+      { "label": "KI-Adoptionsrate Fleet Manager", "value": "67% erwarten KI als größten Impact" }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "109.000+",
+    "talentShortageRate": "85%",
+    "specificChallenges": [
+      "109.000 offene IT-Stellen in Deutschland — 85% der Unternehmen beklagen Fachkräftemangel (Bitkom, August 2025)",
+      "Oberkirch: 20.000 Einwohner — Full-Stack-Entwickler pendeln lieber nach Karlsruhe, Straßburg oder Freiburg",
+      "36 offene Softwareentwickler-Stellen allein im Ortenaukreis — COS konkurriert mit Hunderten regionalen Arbeitgebern",
+      "Legacy-Expertise (Delphi/.NET Desktop) wird immer seltener — junge Entwickler lernen React, Python und Cloud-native",
+      "IT-Gehälter in der Ortenau 10-15% unter Stuttgart/Karlsruhe — Talentabwanderung in die Großstädte"
+    ]
+  },
+  "kununu": {
+    "score": 4.0,
+    "outOf": 5,
+    "reviewCount": 10,
+    "highlights": [
+      { "label": "Arbeitsatmosphäre", "score": 4.2 },
+      { "label": "Work-Life-Balance", "score": 4.3 },
+      { "label": "Kollegenzusammenhalt", "score": 4.5 },
+      { "label": "Karriere/Weiterbildung", "score": 3.5 },
+      { "label": "Gehalt/Sozialleistungen", "score": 3.8 }
+    ],
+    "quotes": [
+      {
+        "text": "Top Company Auszeichnung von kununu — gehört zu den Top 5% der beliebtesten Arbeitgeber auf der Plattform.",
+        "sentiment": "positive"
+      },
+      {
+        "text": "Als Familienunternehmen steht seit 40 Jahren der nachhaltige Erfolg im Vordergrund. Bewusster Verzicht auf Exit-getriebene Investoren.",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  "linkedinPresence": {
+    "employeeCount": 35,
+    "employeeGrowth": "-5% in 12 Monaten",
+    "ceoLastPost": "Nicht regelmäßig aktiv",
+    "ceoPostTopic": "Keine regelmäßige LinkedIn-Präsenz der Geschäftsführung",
+    "departures": []
+  },
+  "googleTrends": {
+    "product": "COSware",
+    "competitor": "Webfleet",
+    "productScore": 2,
+    "competitorScore": 65,
+    "summary": "COSware hat minimales Suchvolumen in Deutschland. Webfleet dominiert mit stabilem Interesse (50-80 auf relativer Skala). Shiftmove/Vimcar zeigt stark wachsende Queries. Massive Lücke in der Markensichtbarkeit.",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Ortenaukreis",
+    "openITRoles": 104,
+    "averageVacancyDays": 180,
+    "source": "Bundesagentur für Arbeit, Engpassanalyse 2025 (Softwareentwicklung, Informatik-Experten)"
+  },
+  "financialsStory": [
+    "5,0 Mio. EUR Bilanzsumme 2024 (+11,4% ggü. Vorjahr) mit 2,3 Mio. EUR Jahresüberschuss — COS ist hochprofitabel. Eigenkapitalquote 62%. Cash von 1,75 Mio. EUR. Das operative Geschäft läuft hervorragend.",
+    "Konstant über 1,7 Mio. EUR Jahresüberschuss in jedem der letzten 4 Jahre (2021: 2,5 Mio., 2022: 2,2 Mio., 2023: 1,7 Mio., 2024: 2,3 Mio.). 53 Mitarbeiter — deutlich mehr als die geschätzten 35. Die Verbindlichkeiten (1,2 Mio.) sind primär langfristige Darlehen für das Firmengebäude.",
+    "Das eigentliche Risiko: Trotz exzellenter Finanzen konkurriert COS mit Bridgestone (Webfleet) und PE-finanziertem Shiftmove (€200 Mio.) — Konzerne, die Milliarden in KI-Features investieren, während COS mit 53 Mitarbeitern dagegenhält."
+  ],
+  "plan": [
+    {
+      "title": "COSWARE SUPPORT",
+      "timeline": "Monat 1–3",
+      "tagline": "Ihre 800+ Kunden bekommen sofort Antworten — ohne Wartezeit.",
+      "items": [
+        "AI Support Agent trainiert auf COSware-Dokumentation: Fuhrpark, Tourenplanung, Werkstatt, Betriebshof",
+        "Automatische Beantwortung der häufigsten Fragen: Modulkonfiguration, Schnittstellen, Routenoptimierung",
+        "24/7-Support für Ihre ÖPNV- und Kommunalkunden — Ausfallzeiten kosten diese Kunden Millionen",
+        "Ihre offene Supportstelle (Logistik & Tourenplanung) wird durch den AI-Agent überflüssig"
+      ],
+      "result": "Support-Kapazität verdreifacht ohne zusätzliche Einstellung — €42.000/Jahr gespart"
+    },
+    {
+      "title": "COSWARE DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "35 Mitarbeiter liefern wie 70.",
+      "items": [
+        "AI Pair Programming für Ihr Full-Stack-Entwicklerteam — COSware-Features 2x schneller ausliefern",
+        "AI-gestützte Code-Migration der Legacy-Kernmodule zu modernem Web-Stack",
+        "Automatisierte Test-Suite für Tourenplanungs-Algorithmen und Werkstatt-Workflows",
+        "AI-Dokumentation: Jede Code-Änderung wird automatisch dokumentiert — kein Wissen geht verloren, wenn Mitarbeiter gehen"
+      ],
+      "result": "Release-Zyklen halbiert, Full-Stack-Stelle intern gedeckt"
+    },
+    {
+      "title": "COSWARE AI-NATIVE",
+      "timeline": "Monat 9–18",
+      "tagline": "KI-gestützte Tourenoptimierung — Ihr Alleinstellungsmerkmal gegen Webfleet.",
+      "items": [
+        "AI-gestützte Echtzeit-Tourenoptimierung: Routen automatisch anpassen bei Stau, Wetter, Fahrzeugausfall",
+        "Predictive Maintenance für Fuhrparks Ihrer Kunden — direkt in COSware integriert",
+        "KI-basierte Kostenprognose und Flottenanalyse für Controller und Fuhrparkleiter",
+        "Cloud-fähige COSware-Architektur — bereit für SaaS-Modell und neue Kundengruppen"
+      ],
+      "result": "COSware wird die erste KI-native Fuhrparksoftware für den öffentlichen Sektor"
+    }
+  ],
+  "killerInsight": {
+    "text": "800+ Kunden verwalten 4 Millionen Fahrzeuge mit COSware — aber Bridgestone investiert Konzernmilliarden in Webfleets KI-Fleet-Advisor, und Battery Ventures hat €200 Mio. in Shiftmove gesteckt. COS hat 2 offene Stellen und 35 Mitarbeiter.",
+    "source": "Bridgestone Pressemitteilung 2025, Battery Ventures/Shiftmove Übernahme 2023, join.com/cosgmbh"
+  },
+  "pitchType": "profitable-small",
+  "accent": "#0f3061",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? Bridgestone rollt den KI-gestützten Fleet Advisor und Predictive Maintenance europaweit aus. Shiftmove investiert die €200 Mio. von Battery Ventures in Cloud-SaaS und KI-Features. Ihre ÖPNV- und Kommunalkunden werden vergleichen — und COSware ohne KI-Funktionen wird nicht mehr auf der Shortlist stehen.",
+  "endgameScenarioA": [
+    "Webfleet hat einen KI-gestützten Fleet Advisor, AI Video-Telematik und Predictive Maintenance — alles Cloud-native, unterstützt von Bridgestone-Konzernressourcen. Shiftmove hat €200 Mio. für Cloud-SaaS und Automatisierung.",
+    "COSware verwaltet 4 Millionen Fahrzeuge — aber ohne KI-Tourenoptimierung, ohne Predictive Maintenance, ohne Cloud-Architektur. Die Funktionslücke zu den Wettbewerbern wächst mit jedem Quartal.",
+    "Ihre 800+ Kunden aus ÖPNV, Kommunen und Speditionen stehen unter Digitalisierungsdruck. Wenn COSware keine KI-Features bietet, werden die nächsten Ausschreibungen an Webfleet oder Shiftmove gehen — und 40 Jahre Kundenbeziehung zählen dann nicht mehr."
+  ],
+  "ctaEmail": "COS@COSonline.de",
+  "ctaPhone": "+49 7802 7027-0"
+}

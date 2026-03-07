@@ -1,0 +1,322 @@
+{
+  "slug": "mobile-function",
+  "name": "mobile function",
+  "legalName": "Mobile Function GmbH",
+  "location": {
+    "city": "Villingen-Schwenningen",
+    "region": "Schwarzwald-Baar-Kreis",
+    "state": "Baden-Württemberg",
+    "address": "Niederwiesenstraße 28, D-78050 Villingen-Schwenningen",
+    "population": 89681,
+    "nearestCities": [
+      { "name": "Freiburg", "distanceKm": 65 },
+      { "name": "Stuttgart", "distanceKm": 120 },
+      { "name": "Zürich", "distanceKm": 90 },
+      { "name": "Konstanz", "distanceKm": 70 }
+    ]
+  },
+  "founded": 2011,
+  "employees": {
+    "current": 25,
+    "previous": 19,
+    "previousYear": 2021
+  },
+  "product": {
+    "name": "ENGINE4",
+    "description": "Low-Code-Plattform für individuelles Field Service Management — mobile Auftragsabwicklung, Einsatzplanung, Zeiterfassung, digitale Checklisten und Serviceberichte",
+    "techStack": [".NET Core", "Azure", "Cordova", "T-SQL", "JavaScript"],
+    "weaknesses": [
+      "Cordova-basierte Mobile-Apps statt nativer Entwicklung",
+      "Kleine Entwicklungsmannschaft gegen globale Konzernlösungen",
+      "Kein Predictive Maintenance als fertiges Modul",
+      "Abhängigkeit von Low-Code-Ansatz bei komplexen Enterprise-Anforderungen",
+      "Begrenzte internationale Skalierung"
+    ],
+    "customerQuotes": [
+      {
+        "text": "Wir sind sehr zufrieden und haben es nie bereut, uns für ENGINE4.SERVICE und Mobile Function entschieden zu haben. Die Lösung bietet alles, was wir brauchen.",
+        "source": "ENGINE4-Kunde, Capterra"
+      },
+      {
+        "text": "In mobile function haben wir einen zuverlässigen Partner in der mobilen Auftragsabwicklung gefunden. Neben der maßgeschneiderten Lösung ENGINE4 überzeugen vor allem der professionelle Support und die hervorragende Erreichbarkeit.",
+        "source": "KONE GARANT, Referenz mobile-function.com"
+      }
+    ],
+    "rating": {
+      "score": 4.8,
+      "outOf": 5,
+      "reviewCount": 12,
+      "platform": "ProvenExpert"
+    }
+  },
+  "management": {
+    "ceo": "Benjamin Hauser",
+    "team": ["Andreas Degen (Mitgründer, ausgeschieden als Geschäftsführer September 2024)"]
+  },
+  "ownership": {
+    "parent": null,
+    "parentDescription": null,
+    "since": null
+  },
+  "financials": {
+    "year": 2021,
+    "totalAssets": 499781,
+    "cash": 129614,
+    "retainedEarnings": 126946,
+    "liabilities": 328335,
+    "shareholderDebt": 292228
+  },
+  "financialsHistory": [
+    {
+      "year": 2021,
+      "totalAssets": 499781,
+      "cash": 129614,
+      "retainedEarnings": 126946,
+      "liabilities": 328335,
+      "shareholderDebt": 292228,
+      "employees": 19
+    },
+    {
+      "year": 2020,
+      "totalAssets": 652242,
+      "cash": 473352,
+      "retainedEarnings": 185854,
+      "liabilities": 417491,
+      "shareholderDebt": 361948,
+      "employees": 13
+    },
+    {
+      "year": 2019,
+      "totalAssets": 467000,
+      "cash": 350000,
+      "retainedEarnings": 160000,
+      "liabilities": 270000,
+      "shareholderDebt": 250000
+    }
+  ],
+  "openPositions": [
+    {
+      "title": "Senior Frontend-Entwickler (m/w/d)",
+      "location": "Villingen-Schwenningen, Hybrid",
+      "type": "development",
+      "postedAgo": "Sofort",
+      "estimatedSalary": 65000,
+      "aiAlternative": "AI-augmented Frontend Development — 2x Output pro Entwickler mit Cursor/Copilot",
+      "aiReplaceability": 50,
+      "savingsNote": "Ihre bestehenden Entwickler liefern doppelt so schnell mit AI Pair Programming. Claude Code und Copilot automatisieren 40-60% der Frontend-Arbeit für ENGINE4-Webanwendungen."
+    },
+    {
+      "title": "Solution Consultant Digitalisierung (m/w/d)",
+      "location": "Villingen-Schwenningen, Hybrid",
+      "type": "management",
+      "postedAgo": "Sofort",
+      "estimatedSalary": 60000,
+      "aiAlternative": "AI-gestütztes Anforderungsmanagement + automatisierte ENGINE4-Konfiguration",
+      "aiReplaceability": 35,
+      "savingsNote": "Diese Rolle bleibt — aber AI übernimmt die Analyse von Kundenanforderungen, erstellt automatisch ENGINE4-Konfigurationsvorschläge und generiert Projektpläne. Der Consultant konzentriert sich auf strategische Beratung."
+    },
+    {
+      "title": "Datenbankentwickler T-SQL (m/w/d)",
+      "location": "Villingen-Schwenningen, Hybrid",
+      "type": "development",
+      "postedAgo": "Sofort",
+      "estimatedSalary": 58000,
+      "aiAlternative": "AI-gestützte Datenbankoptimierung + automatisierte Query-Generierung",
+      "aiReplaceability": 60,
+      "savingsNote": "AI-Tools generieren und optimieren T-SQL-Queries 5x schneller. Automatisierte Performance-Analyse und Index-Empfehlungen ersetzen manuelle Datenbankarbeit für ENGINE4-Backend."
+    },
+    {
+      "title": "Duales Studium Wirtschaftsinformatik (DHBW)",
+      "location": "Villingen-Schwenningen",
+      "type": "development",
+      "postedAgo": "Sofort",
+      "estimatedSalary": 12000,
+      "aiAlternative": "AI-gestütztes Onboarding + beschleunigtes Lernen durch AI-Tutoring",
+      "aiReplaceability": 15,
+      "savingsNote": "Duale Studenten sind wichtig für Nachwuchssicherung. AI beschleunigt deren Produktivität: automatisierte Code-Reviews, AI-Tutoring auf ENGINE4-Codebase, schnelleres Onboarding."
+    },
+    {
+      "title": "Duales Studium Informatik (DHBW Horb)",
+      "location": "Villingen-Schwenningen / Horb",
+      "type": "development",
+      "postedAgo": "Sofort",
+      "estimatedSalary": 12000,
+      "aiAlternative": "AI-gestütztes Onboarding + beschleunigtes Lernen durch AI-Tutoring",
+      "aiReplaceability": 15,
+      "savingsNote": "Nachwuchsförderung bleibt essenziell. AI-Tools machen duale Studenten ab Tag 1 produktiver — automatisierte Dokumentation, Code-Erklärungen und AI-gestützte Lernpfade."
+    },
+    {
+      "title": "Duales Studium BWL – Digital Business Management (DHBW)",
+      "location": "Villingen-Schwenningen",
+      "type": "admin",
+      "postedAgo": "Sofort",
+      "estimatedSalary": 12000,
+      "aiAlternative": "AI-gestütztes Business Development + automatisierte Marktanalyse",
+      "aiReplaceability": 20,
+      "savingsNote": "AI übernimmt Marktrecherche, Wettbewerbsanalysen und Kundensegmentierung. Der Student konzentriert sich auf strategische Projekte statt Routineaufgaben."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "SAP Field Service Management",
+      "customers": "Tausende",
+      "employees": "Konzern",
+      "owner": "SAP SE",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "KI-gestützte Einsatzplanung, Cloud-native SaaS, globaler Marktführer, tiefe ERP-Integration"
+    },
+    {
+      "name": "Salesforce Field Service",
+      "customers": "Tausende",
+      "employees": "Konzern",
+      "owner": "Salesforce Inc.",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "Einstein AI, automatisierte Disposition, $175-230/User/Monat, globale Skalierung"
+    },
+    {
+      "name": "L-mobile service",
+      "customers": "500+",
+      "employees": "100+",
+      "owner": "Löchner Group AG",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "Seit 2001, Standorte in 6 Ländern, Fokus auf Mittelstand, mobile Servicelösung"
+    },
+    {
+      "name": "IFS Field Service Management",
+      "customers": "Tausende",
+      "employees": "6.000+",
+      "owner": "EQT Partners (PE)",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "Gartner Leader, AI-gestützte Planung, globale Enterprise-Lösung, $1,2 Mrd. Umsatz"
+    },
+    {
+      "name": "ServiceMax (PTC)",
+      "customers": "Groß",
+      "employees": "500+",
+      "owner": "PTC Inc.",
+      "aiMaturity": 2,
+      "cloudReady": 3,
+      "highlight": "Asset-zentriertes FSM, IoT-Integration, Self-Service-Portal, Kunden wie GE und Schneider Electric"
+    }
+  ],
+  "market": {
+    "name": "Field Service Management Software Deutschland/Europa",
+    "totalProviders": 40,
+    "trends": [
+      "Globaler FSM-Markt wächst von $5,5 Mrd. (2025) auf $23,6 Mrd. (2035) — CAGR 16%",
+      "Europa macht 27% des globalen Marktes aus mit 15,2% Wachstum pro Jahr",
+      "KI-gestützte Einsatzplanung und Predictive Maintenance werden zum Standard",
+      "Cloud-native SaaS-Lösungen verdrängen On-Premise-Installationen",
+      "IoT-Integration und Digital Twins transformieren den technischen Kundendienst",
+      "Low-Code-Plattformen demokratisieren die Anpassung von FSM-Lösungen"
+    ],
+    "stats": [
+      { "label": "Globaler Markt 2025", "value": "$5,5 Mrd." },
+      { "label": "Europa-Anteil", "value": "27% (~$1,5 Mrd.)" },
+      { "label": "CAGR 2025–2035", "value": "16%" },
+      { "label": "Deutschland FSM-Markt", "value": "~$400 Mio." }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "109.000+",
+    "talentShortageRate": "79%",
+    "specificChallenges": [
+      "109.000 offene IT-Stellen in Deutschland — trotz Konjunkturflaute bleibt der Fachkräftemangel akut (Bitkom 2025)",
+      "Villingen-Schwenningen: 89.000 Einwohner im Schwarzwald — Talente pendeln nach Freiburg, Stuttgart oder in die Schweiz",
+      "Jeder vierte Beschäftigte im Schwarzwald-Baar-Kreis ist 55+ — demografische Welle verschärft den Mangel bis 2030",
+      "IT-Gehälter in Baden-Württemberg 15-20% unter München/Zürich — Grenzregion zur Schweiz macht Recruiting noch schwerer",
+      "6 offene Stellen bei 25 Mitarbeitern — das entspricht einer Vakanzquote von 24%"
+    ]
+  },
+  "kununu": null,
+  "linkedinPresence": {
+    "employeeCount": 25,
+    "employeeGrowth": "+32% seit 2021 (von 19 auf 25)",
+    "ceoLastPost": "Nicht regelmäßig aktiv",
+    "ceoPostTopic": "Technologie und Field Service Management",
+    "departures": [
+      {
+        "name": "Andreas Degen",
+        "previousRole": "Geschäftsführer & Mitgründer",
+        "newCompany": "Unbekannt",
+        "when": "September 2024"
+      }
+    ]
+  },
+  "googleTrends": {
+    "product": "ENGINE4",
+    "competitor": "SAP Field Service Management",
+    "productScore": 2,
+    "competitorScore": 65,
+    "summary": "ENGINE4 hat minimales Suchvolumen. SAP Field Service Management dominiert mit stabilem Interesse (50-80 auf relativer Skala). Massive Lücke in der Markensichtbarkeit — ENGINE4 ist außerhalb der Bestandskunden praktisch unsichtbar.",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Schwarzwald-Baar-Kreis",
+    "openITRoles": 85,
+    "averageVacancyDays": 180,
+    "source": "Bundesagentur für Arbeit, Engpassanalyse 2025 (Softwareentwicklung Experten)"
+  },
+  "financialsStory": [
+    "292.000 € Gesellschafterdarlehen bei 500.000 € Bilanzsumme — mehr als die Hälfte der Verbindlichkeiten sind Darlehen der Gründer. Die Firma finanziert sich über die Gesellschafter, nicht über Bankkredit.",
+    "Von 13 Mitarbeitern (2020) auf 25 heute — das Wachstum ist beeindruckend. Aber der Bilanzgewinn sank von 186.000 € auf 127.000 € im gleichen Zeitraum. Das Wachstum kostet Marge.",
+    "Jetzt hat Mitgründer Andreas Degen das Unternehmen verlassen (September 2024). Benjamin Hauser steht allein an der Spitze — mit 6 offenen Stellen und Konkurrenten wie SAP, Salesforce und IFS, die Milliarden in KI investieren."
+  ],
+  "plan": [
+    {
+      "title": "ENGINE4 SUPPORT & ONBOARDING",
+      "timeline": "Monat 1–3",
+      "tagline": "Ihre Kunden konfigurieren ENGINE4 selbst — mit KI-Hilfe.",
+      "items": [
+        "AI Support Agent trainiert auf ENGINE4-Dokumentation, SERVICE-Konfiguration und Schnittstellen-FAQ",
+        "Automatische Beantwortung der häufigsten Fragen: Auftragsabwicklung, Einsatzplanung, Checklisten-Konfiguration",
+        "KI-gestütztes Onboarding: Neue ENGINE4-Kunden werden in Tagen statt Wochen produktiv",
+        "Ihr Solution Consultant konzentriert sich auf komplexe Digitalisierungsprojekte statt Standardfragen"
+      ],
+      "result": "Support-Kapazität verdoppelt ohne zusätzliche Stelle — Solution Consultant wird zum strategischen Berater"
+    },
+    {
+      "title": "ENGINE4 DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "25 Mitarbeiter liefern wie 50.",
+      "items": [
+        "AI Pair Programming für .NET Core Backend und JavaScript Frontend — 2x Entwicklungsgeschwindigkeit",
+        "Automatisierte T-SQL-Optimierung und Query-Generierung für ENGINE4-Datenbank",
+        "AI-gestützte Migration von Cordova zu modernem Cross-Platform-Framework (Flutter/React Native)",
+        "Automatisierte Tests und Code-Dokumentation — kein Wissen geht verloren, wenn Mitarbeiter wechseln"
+      ],
+      "result": "Release-Zyklen halbiert, Cordova-Abhängigkeit schrittweise abgelöst, 6 offene Stellen durch Produktivitätsgewinn kompensiert"
+    },
+    {
+      "title": "ENGINE4 AI-NATIVE",
+      "timeline": "Monat 9–18",
+      "tagline": "Predictive Field Service — Ihr Alleinstellungsmerkmal gegen SAP und Salesforce.",
+      "items": [
+        "KI-gestützte Predictive Maintenance direkt in ENGINE4 — Serviceeinsätze bevor der Kunde anruft",
+        "Intelligente Einsatzplanung mit AI: Automatische Technikerzuweisung basierend auf Qualifikation, Standort und Dringlichkeit",
+        "AI-gestützte Wissensextraktion aus Serviceberichten — automatische Fehlermuster-Erkennung",
+        "ENGINE4 als AI-first Low-Code-Plattform positionieren — das Differenzierungsmerkmal im Mittelstand"
+      ],
+      "result": "ENGINE4 wird die erste AI-native Field Service Plattform für den deutschen Mittelstand"
+    }
+  ],
+  "killerInsight": {
+    "text": "Mitgründer Andreas Degen hat Mobile Function im September 2024 verlassen. Benjamin Hauser führt das Unternehmen jetzt allein — mit 6 offenen Stellen, 292.000 € Gesellschafterdarlehen und Konkurrenten, die Milliarden in KI investieren.",
+    "source": "Handelsregister Freiburg HRB 712522 (11.09.2024), Bundesanzeiger Jahresabschluss 2021, Karriereseite mobile-function.com"
+  },
+  "pitchType": "talent-bleeding",
+  "accent": "#ec7405",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? SAP und Salesforce investieren jährlich Milliarden in KI-gestütztes Field Service Management. IFS wurde 2025 von Gartner als Leader ausgezeichnet. Bis 2028 wird KI-gestützte Einsatzplanung Standard sein — wer dann nicht dabei ist, verliert den Anschluss im Mittelstandsmarkt.",
+  "endgameScenarioA": [
+    "SAP hat Einstein AI für Field Service, Salesforce automatisiert die Einsatzplanung per KI, IFS ist Gartner Leader. Alle drei investieren Milliarden in Predictive Maintenance und IoT-Integration.",
+    "ENGINE4 basiert auf Cordova für Mobile-Apps — eine Technologie, die seit Jahren an Relevanz verliert. 6 offene Stellen bei 25 Mitarbeitern. Ihr Mitgründer hat das Unternehmen verlassen. Die Entwicklungskapazität stagniert, während der Funktionsrückstand wächst.",
+    "Ihre Kunden — KONE, REWE, Holcim — vergleichen ENGINE4 mit Lösungen, die KI-gestützte Einsatzplanung und Predictive Maintenance bieten. Der Mittelstandsvorsprung durch individuelle Anpassung schmilzt, wenn Konzernlösungen das gleiche per Low-Code können."
+  ],
+  "ctaEmail": "",
+  "ctaPhone": "+49 7721 69700-300"
+}

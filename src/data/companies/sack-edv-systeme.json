@@ -1,0 +1,308 @@
+{
+  "slug": "sack-edv-systeme",
+  "name": "Sack EDV",
+  "legalName": "Sack EDV-Systeme GmbH",
+  "location": {
+    "city": "Schwäbisch Hall",
+    "region": "Hohenlohe",
+    "state": "Baden-Württemberg",
+    "address": "Kolpingstraße 11/8, 74523 Schwäbisch Hall",
+    "population": 42000,
+    "nearestCities": [
+      { "name": "Heilbronn", "distanceKm": 53 },
+      { "name": "Stuttgart", "distanceKm": 93 },
+      { "name": "Nürnberg", "distanceKm": 130 },
+      { "name": "München", "distanceKm": 250 }
+    ]
+  },
+  "founded": 1991,
+  "employees": {
+    "current": 25,
+    "previous": 27,
+    "previousYear": 2023
+  },
+  "product": {
+    "name": "proMExS",
+    "description": "MES- und APS-Software für die diskrete Fertigung — Produktionsfeinplanung, BDE/MDE, Rüstzeitoptimierung, Kapazitätsplanung",
+    "techStack": ["Delphi", "JavaScript", "SQL"],
+    "weaknesses": [
+      "Keine AI-Funktionen",
+      "Keine Cloud-/SaaS-Lösung",
+      "Delphi-basierte Kernarchitektur",
+      "Kein Indoor-Tracking mit AI-Analyse",
+      "Kein Predictive Maintenance",
+      "Kleine Entwicklungsmannschaft für wachsenden Funktionsumfang"
+    ],
+    "customerQuotes": [
+      {
+        "text": "Wir sparen täglich 3 bis 4 Arbeitsstunden durch die optimierte Planung mit proMExS.",
+        "source": "WALLRAM Werkzeugtechnik GmbH, Anwenderbericht sackedv.com"
+      },
+      {
+        "text": "Die Liefertreue liegt seit der Einführung von proMExS bei über 98 Prozent.",
+        "source": "3MÜ GmbH & Co. KG, Anwenderbericht sackedv.com"
+      }
+    ],
+    "rating": {
+      "score": 4.0,
+      "outOf": 5,
+      "reviewCount": 5,
+      "platform": "Trustpilot"
+    }
+  },
+  "management": {
+    "ceo": "Tilmann Sack",
+    "team": ["Silvia Schönleber"]
+  },
+  "ownership": {
+    "parent": null,
+    "parentDescription": null,
+    "since": null
+  },
+  "financials": {
+    "year": 2024,
+    "totalAssets": 1636417,
+    "cash": 79769,
+    "retainedEarnings": 345243,
+    "liabilities": 1047587,
+    "shareholderDebt": 0
+  },
+  "financialsHistory": [
+    {
+      "year": 2024,
+      "totalAssets": 1636417,
+      "cash": 79769,
+      "retainedEarnings": 345243,
+      "liabilities": 1047587,
+      "shareholderDebt": 0
+    },
+    {
+      "year": 2023,
+      "totalAssets": 1676000,
+      "cash": 82000,
+      "retainedEarnings": 306000,
+      "liabilities": 1073000,
+      "shareholderDebt": 0
+    },
+    {
+      "year": 2022,
+      "totalAssets": 1629000,
+      "cash": 80000,
+      "retainedEarnings": 260000,
+      "liabilities": 1043000,
+      "shareholderDebt": 0
+    }
+  ],
+  "openPositions": [
+    {
+      "title": "Softwareentwickler Delphi",
+      "location": "Schwäbisch Hall, Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 52000,
+      "aiAlternative": "AI-gestützte Code-Migration Delphi zu modernem Stack",
+      "aiReplaceability": 65,
+      "savingsNote": "602 offene Delphi-Stellen in ganz Deutschland. AI migriert Delphi-Code zu C#/.NET oder TypeScript — 3x schneller als manuell, mit automatisierten Tests."
+    },
+    {
+      "title": "Softwareentwickler JavaScript Frontend",
+      "location": "Schwäbisch Hall, Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 55000,
+      "aiAlternative": "AI-augmented Frontend Development — 2x Output pro Entwickler",
+      "aiReplaceability": 50,
+      "savingsNote": "Ihre bestehenden Entwickler liefern doppelt so schnell mit AI Pair Programming. Cursor, Copilot und Claude Code automatisieren 40-60% der Frontend-Arbeit."
+    },
+    {
+      "title": "Support Specialist ERP/MES Software",
+      "location": "Schwäbisch Hall, Hybrid",
+      "type": "support",
+      "postedAgo": "",
+      "estimatedSalary": 45000,
+      "aiAlternative": "AI Support Agent — trainiert auf proMExS-Dokumentation und BIOS ERP",
+      "aiReplaceability": 80,
+      "savingsNote": "80% aller Kundenanfragen zu proMExS und BIOS betreffen Konfiguration und Bedienung. Ein AI-Agent beantwortet diese sofort — 24/7, in Deutsch und Englisch."
+    },
+    {
+      "title": "Sales Manager ERP/MES Software",
+      "location": "Schwäbisch Hall, Hybrid",
+      "type": "management",
+      "postedAgo": "",
+      "estimatedSalary": 60000,
+      "aiAlternative": "AI-gestützte Lead-Qualifizierung + automatisierte Demo-Vorbereitung",
+      "aiReplaceability": 30,
+      "savingsNote": "Diese Rolle bleibt — aber AI übernimmt Lead-Scoring, Angebotserstellung und individuelle Demo-Vorbereitung. Der Sales Manager konzentriert sich auf Abschlüsse."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "MPDV Mikrolab (HYDRA X)",
+      "customers": "750+",
+      "employees": "530",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 3,
+      "cloudReady": 2,
+      "highlight": "AI Suite mit KI-Tochter AIMES, 530 Mitarbeiter, €80 Mio. Umsatz, 13 Standorte weltweit"
+    },
+    {
+      "name": "FORCAM ENISCO",
+      "customers": "100+",
+      "employees": "60+",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 2,
+      "cloudReady": 2,
+      "highlight": "Cloud-MES, SAP-Integration, Kunden wie Airbus, BMW, Audi, Schaeffler"
+    },
+    {
+      "name": "Siemens Opcenter",
+      "customers": "Tausende",
+      "employees": "Konzern",
+      "owner": "Siemens AG",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "Opcenter X Cloud-native, AI/IoT-Plattform, globaler Marktführer"
+    },
+    {
+      "name": "iTAC Software (Dürr)",
+      "customers": "Groß",
+      "employees": "200+",
+      "owner": "Dürr AG",
+      "aiMaturity": 2,
+      "cloudReady": 3,
+      "highlight": "Cloud-MES iTAC.MOM.Suite, AI-Plattform iTAC.CATi, Standorte in USA, China, Japan"
+    }
+  ],
+  "market": {
+    "name": "MES-Software Deutschland",
+    "totalProviders": 25,
+    "trends": [
+      "Globaler MES-Markt wächst 10-11% jährlich auf $25 Mrd. bis 2030",
+      "Cloud-MES wird Standard — 62% der Neuimplementierungen sind Cloud-basiert",
+      "AI-gestützte Produktionsoptimierung wird zum Differenzierungsmerkmal",
+      "Predictive Maintenance und Digital Twin ersetzen reaktive Wartung",
+      "79% der Fertigungsunternehmen planen MES-Modernisierung bis 2027"
+    ],
+    "stats": [
+      { "label": "Markt CAGR", "value": "10,1%" },
+      { "label": "Globales Marktvolumen 2025", "value": "$16 Mrd." },
+      { "label": "Deutschland Industrie 4.0 Markt", "value": "$12 Mrd." },
+      { "label": "Cloud-Anteil Neuimplementierungen", "value": "62%" }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "109.000+",
+    "talentShortageRate": "79%",
+    "specificChallenges": [
+      "602 offene Delphi-Entwickler-Stellen in ganz Deutschland — extremer Wettbewerb um eine aussterbende Kompetenz",
+      "IT-Fachkräftemangel in Baden-Württemberg verschärft sich bis 2030 laut Stuttgarter Zeitung",
+      "Schwäbisch Hall: 42.000 Einwohner — Talente pendeln lieber nach Stuttgart oder Heilbronn",
+      "Landratsamt Schwäbisch Hall zahlt IT-Fachkräften 500€ Zulage monatlich — selbst der Staat kämpft um Talente"
+    ]
+  },
+  "kununu": {
+    "score": 2.1,
+    "outOf": 5,
+    "reviewCount": 2,
+    "highlights": [
+      { "label": "Kollegenzusammenhalt", "score": 3.5 },
+      { "label": "Arbeitsumgebung", "score": 3.3 },
+      { "label": "Unternehmenskultur", "score": 2.1 },
+      { "label": "Karriere & Gehalt", "score": 1.5 },
+      { "label": "Vielfalt", "score": 1.0 }
+    ],
+    "quotes": [
+      {
+        "text": "Wir siezen uns, in einem Softwareunternehmen in 2024.",
+        "sentiment": "negative"
+      },
+      {
+        "text": "Unter den wenigen, die noch da sind, ganz ok.",
+        "sentiment": "negative"
+      },
+      {
+        "text": "Er sollte mal in der Neuzeit ankommen.",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  "linkedinPresence": {
+    "employeeCount": 25,
+    "employeeGrowth": "-7% in 12 Monaten",
+    "ceoLastPost": "Nicht aktiv",
+    "ceoPostTopic": "Kommunikation über PresseBox statt LinkedIn",
+    "departures": []
+  },
+  "googleTrends": {
+    "product": "proMExS",
+    "competitor": "MPDV",
+    "productScore": 1,
+    "competitorScore": 50,
+    "summary": "proMExS hat nahezu null Suchvolumen in Deutschland. MPDV zeigt stabiles Interesse (25-75 auf relativer Skala) mit steigenden Queries zu \"HYDRA X\". Massive Lücke in der Markensichtbarkeit.",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Landkreis Schwäbisch Hall",
+    "openITRoles": 98,
+    "averageVacancyDays": 196,
+    "source": "Bundesagentur für Arbeit, Engpassanalyse 2024 (Softwareentwicklung Experten)"
+  },
+  "financialsStory": [
+    "80.000 € Cash bei 1,6 Mio. Bilanzsumme — die Reserven sind dünn. Es gibt keinen Puffer für einen teuren Fehlgriff.",
+    "Aber: 345.000 € Bilanzgewinn — stabil profitabel, Jahr für Jahr. Das Geschäft funktioniert.",
+    "Das Problem ist nicht Geld. Das Problem ist, dass 25 Mitarbeiter gegen Unternehmen mit 530 (MPDV) oder Konzernressourcen (Siemens) antreten — und 4 Stellen nicht besetzt bekommen."
+  ],
+  "plan": [
+    {
+      "title": "PROMEXS SUPPORT",
+      "timeline": "Monat 1–3",
+      "tagline": "Ihre Kunden konfigurieren proMExS selbst — mit AI-Hilfe.",
+      "items": [
+        "Support-Agent trainiert auf proMExS-Dokumentation, BIOS-ERP-Integration und BDE/MDE-Konfiguration",
+        "Automatische Beantwortung der häufigsten Fragen: Feinplanung, Rüstzeitoptimierung, Schnittstellen",
+        "Onboarding-Assistent: Neue proMExS-Kunden kommen in Tagen statt Wochen produktiv",
+        "Ihr Support-Specialist konzentriert sich auf komplexe ERP-Integrationsfälle"
+      ],
+      "result": "Support-Kapazität verdoppelt ohne zusätzliche Stelle"
+    },
+    {
+      "title": "PROMEXS DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "25 Mitarbeiter liefern wie 50.",
+      "items": [
+        "AI-gestützte Migration der Delphi-Kernmodule zu einem modernen Stack",
+        "AI Pair Programming für Ihr JavaScript-Frontend-Team — schnellere UI-Entwicklung",
+        "Automatisierte Tests für Planungsalgorithmen und BDE-Datenflüsse",
+        "AI-Dokumentation: Jede Code-Änderung wird automatisch dokumentiert — kein Wissen geht verloren"
+      ],
+      "result": "Release-Zyklen halbiert, Delphi-Kern schrittweise abgelöst"
+    },
+    {
+      "title": "PROMEXS AI-NATIVE",
+      "timeline": "Monat 9–18",
+      "tagline": "Predictive Manufacturing — Ihr Alleinstellungsmerkmal.",
+      "items": [
+        "AI-gestützte Produktionsoptimierung: Rüstzeiten automatisch minimieren",
+        "Predictive Maintenance für die Maschinen Ihrer Kunden — direkt in proMExS",
+        "Anomalie-Erkennung in Echtzeit: AI erkennt Produktionsprobleme bevor sie entstehen",
+        "Cloud-fähige proMExS-Architektur — bereit für SaaS und Digital Twin"
+      ],
+      "result": "proMExS wird das erste AI-native MES für den Mittelstand"
+    }
+  ],
+  "killerInsight": {
+    "text": "'Wir siezen uns, in einem Softwareunternehmen in 2024.' — 'Unter den wenigen, die noch da sind, ganz ok.'",
+    "source": "Aktuelle und ehemalige Mitarbeiter, kununu.com (2.1 von 5 Sternen)"
+  },
+  "pitchType": "profitable-small",
+  "accent": "#004c93",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? MPDV investiert jährlich zweistellige Millionenbeträge in AI mit eigener KI-Tochter AIMES. Siemens Opcenter ist bereits Cloud-native mit AI/IoT. Danach wird der Abstand schwer einholbar.",
+  "endgameScenarioA": [
+    "MPDV hat eine eigene KI-Tochter (AIMES) und eine vollständige AI Suite. Siemens Opcenter ist Cloud-native mit AI/IoT-Plattform.",
+    "Ihre Delphi-Kernarchitektur ist nicht Cloud-fähig. Kein Predictive Maintenance, kein Digital Twin — Funktionen, die 79% der Fertigungsunternehmen bis 2027 erwarten.",
+    "Ihre Kunden vergleichen proMExS mit Lösungen, die AI-gestützte Produktionsoptimierung bieten. Der Funktionsrückstand wächst mit jedem Quartal."
+  ],
+  "ctaEmail": "",
+  "ctaPhone": "+49 791 9567730-0"
+}

@@ -1,0 +1,357 @@
+{
+  "slug": "cos-software",
+  "name": "C.O.S. Software",
+  "legalName": "C.O.S. Software GmbH",
+  "location": {
+    "city": "Münster (Hessen)",
+    "region": "Südhessen",
+    "state": "Hessen",
+    "address": "Darmstädter Straße 79b, 64839 Münster (Hessen)",
+    "population": 15000,
+    "nearestCities": [
+      { "name": "Darmstadt", "distanceKm": 15 },
+      { "name": "Frankfurt am Main", "distanceKm": 35 },
+      { "name": "Aschaffenburg", "distanceKm": 30 },
+      { "name": "Heidelberg", "distanceKm": 65 }
+    ]
+  },
+  "founded": 1990,
+  "employees": {
+    "current": 39,
+    "previous": 32,
+    "previousYear": 2022
+  },
+  "product": {
+    "name": "Arista",
+    "description": "Modulare Warenwirtschaft für Handels- und Werkstattbetriebe in den Branchen Land-/Baumaschinen, Forst-/Gartentechnik, Staplerservice, Kommunaltechnik und Boote/Yachten",
+    "techStack": ["C#", ".NET", "SOAP", "REST", "SQL", "Mobile Apps"],
+    "weaknesses": [
+      "Keine AI-Funktionen in der Warenwirtschaft",
+      "Keine Cloud-/SaaS-Architektur",
+      "Keine Predictive Analytics für Ersatzteilbedarf",
+      "Keine automatisierte Maschinenbewertung mit AI",
+      "App-Bewertungen bemängeln fehlende Teilesuche und Auftragssuche",
+      "Telefonische Erreichbarkeit nur Mo-Fr 7:30-11:30"
+    ],
+    "customerQuotes": [
+      {
+        "text": "Mit COS habe ich seit 1994 einen verlässlichen Partner an meiner Seite. Die haben für meine Bedürfnisse immer ein offenes Ohr und die richtige Lösung parat.",
+        "source": "Leo Thiesgen, Leo Thiesgen Agrar- und Fördertechnik, cos-software.de"
+      },
+      {
+        "text": "Mit der Einführung von COS haben wir unseren Rechnungsrückstau sehr schnell in den Griff bekommen.",
+        "source": "Paul Raimund, Paul Raimund Landmaschinen, cos-software.de"
+      },
+      {
+        "text": "Die App selbst wäre gut, findet aber oft die Teile nicht. Findet oft die Aufträge nicht.",
+        "source": "Arista-App-Nutzer, Apple App Store"
+      }
+    ],
+    "rating": {
+      "score": 3.9,
+      "outOf": 5,
+      "reviewCount": 11,
+      "platform": "kununu.com (als Arbeitgeber)"
+    }
+  },
+  "management": {
+    "ceo": "Stefan Worreschk",
+    "team": ["Stephanie Worreschk", "Torsten Rudzok"]
+  },
+  "ownership": {
+    "parent": "AMS (Schweiz) AG / farmpartner-tec GmbH",
+    "parentDescription": "Schweizer Beteiligungsgesellschaft AMS (Schweiz) AG hält 90% der Anteile, farmpartner-tec GmbH als Minderheitsgesellschafter",
+    "since": 2005
+  },
+  "financials": {
+    "year": 2024,
+    "totalAssets": 3505642,
+    "cash": 2112376,
+    "retainedEarnings": 2639053,
+    "liabilities": 314049,
+    "shareholderDebt": 0,
+    "_fiscalYear": "01.08.2023–31.07.2024"
+  },
+  "financialsHistory": [
+    {
+      "year": 2024,
+      "totalAssets": 3505642,
+      "cash": 2112376,
+      "retainedEarnings": 2639053,
+      "liabilities": 314049,
+      "shareholderDebt": 0,
+      "employees": 39,
+      "_fiscalYear": "01.08.2023–31.07.2024"
+    },
+    {
+      "year": 2023,
+      "totalAssets": 3973858,
+      "cash": 2634194,
+      "retainedEarnings": 2625285,
+      "liabilities": 470547,
+      "shareholderDebt": 0,
+      "employees": 39,
+      "_fiscalYear": "01.08.2022–31.07.2023"
+    },
+    {
+      "year": 2022,
+      "totalAssets": 3264481,
+      "cash": 1994893,
+      "retainedEarnings": 1951079,
+      "liabilities": 337900,
+      "shareholderDebt": 0,
+      "employees": 32,
+      "_fiscalYear": "01.08.2021–31.07.2022"
+    },
+    {
+      "year": 2021,
+      "totalAssets": 2707324,
+      "cash": 1475540,
+      "retainedEarnings": 1411379,
+      "liabilities": 663797,
+      "shareholderDebt": 0,
+      "_fiscalYear": "01.08.2020–31.07.2021"
+    }
+  ],
+  "openPositions": [
+    {
+      "title": "Software-Entwickler:in Senior (C#/.NET)",
+      "location": "Münster (Hessen), Vor-Ort",
+      "type": "development",
+      "postedAgo": "Seit Dezember 2024 online",
+      "estimatedSalary": 65000,
+      "aiAlternative": "AI-augmented Development — 2x Output pro Entwickler mit Cursor/Copilot",
+      "aiReplaceability": 50,
+      "savingsNote": "Seit über einem Jahr unbesetzt. C#/.NET-Entwickler in Münster (Hessen) sind rar — die meisten pendeln nach Frankfurt oder Darmstadt. AI Pair Programming verdoppelt die Produktivität Ihres bestehenden Entwicklerteams unter Torsten Rudzok."
+    },
+    {
+      "title": "Kundenbetreuer:in im Innendienst",
+      "location": "Münster (Hessen), Vor-Ort",
+      "type": "support",
+      "postedAgo": "Ab sofort",
+      "estimatedSalary": 42000,
+      "aiAlternative": "AI Support Agent — trainiert auf Arista-Dokumentation und Branchenwissen",
+      "aiReplaceability": 75,
+      "savingsNote": "Die telefonische Erreichbarkeit ist auf Mo-Fr 7:30-11:30 begrenzt. Ein AI-Agent beantwortet 80% der Kundenanfragen zu Arista-Konfiguration, Schnittstellen und Modulen — rund um die Uhr, sofort, in perfektem Deutsch."
+    },
+    {
+      "title": "Kundenbetreuer:in im Außendienst - Region Ost",
+      "location": "Berlin, Brandenburg, Thüringen, Sachsen, Sachsen-Anhalt",
+      "type": "support",
+      "postedAgo": "Ab sofort",
+      "estimatedSalary": 50000,
+      "aiAlternative": "AI-gestütztes Remote-Onboarding + automatisierte Schulungsplattform",
+      "aiReplaceability": 40,
+      "savingsNote": "Außendienst-Betreuung für 5 Bundesländer mit einer Person ist kaum zu schaffen. AI-gestützte Online-Akademie und Remote-Support-Tools reduzieren Reiseaufwand um 60% und ermöglichen schnellere Kundenbetreuung."
+    },
+    {
+      "title": "Vertriebsberater:in DACH Süd (Bayern, BW, Österreich, Schweiz)",
+      "location": "Bayern, Baden-Württemberg, Österreich, Schweiz",
+      "type": "management",
+      "postedAgo": "Ab sofort",
+      "estimatedSalary": 55000,
+      "aiAlternative": "AI-gestützte Lead-Qualifizierung + automatisierte Demo-Vorbereitung",
+      "aiReplaceability": 30,
+      "savingsNote": "Diese Rolle bleibt — aber AI übernimmt Lead-Scoring, automatisierte Angebotserstellung und individuelle Demo-Vorbereitung basierend auf der Branche des Interessenten (Landmaschinen vs. Staplerservice vs. Boote)."
+    },
+    {
+      "title": "Vertriebsberater:in Nord-/Mittel-/Ostdeutschland, Luxemburg",
+      "location": "Norddeutschland, Mitteldeutschland, Ostdeutschland, Luxemburg",
+      "type": "management",
+      "postedAgo": "Ab sofort",
+      "estimatedSalary": 55000,
+      "aiAlternative": "AI-gestütztes CRM mit automatischer Bedarfsanalyse",
+      "aiReplaceability": 30,
+      "savingsNote": "Zwei identische Vertriebsstellen für verschiedene Regionen — AI-gestütztes CRM mit Gebietsanalyse, automatisierter Nachfasslogik und intelligenter Terminplanung macht einen Berater so effektiv wie zwei."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "IRIUM Software",
+      "customers": "27.000+ Anwender",
+      "employees": "200",
+      "owner": "Inhabergeführt (Frankreich)",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "200 Mitarbeiter, 21 Mio. EUR Umsatz, 42 Jahre Erfahrung, international in 50 Ländern, iMob mobile Apps"
+    },
+    {
+      "name": "TRASER Software (Microsoft Dynamics 365)",
+      "customers": "80+ Händler, 4.000+ Anwender",
+      "employees": "50+",
+      "owner": "Inhabergeführt (Kiel)",
+      "aiMaturity": 2,
+      "cloudReady": 3,
+      "highlight": "Basiert auf Microsoft Dynamics 365 Business Central — Cloud-native, AI Copilot verfügbar, 350+ Standorte"
+    },
+    {
+      "name": "DTM Software (AMS)",
+      "customers": "Mittel",
+      "employees": "30+",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 1,
+      "cloudReady": 1,
+      "highlight": "Direkte Herstellerschnittstellen, AMS Arista-kompatibel, Fokus auf Landtechnik"
+    },
+    {
+      "name": "VARIO Software",
+      "customers": "2.000+",
+      "employees": "70+",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "Cloud-ERP mit Baumaschinen-Modul, moderne Weboberfläche, REST-API, wachsend"
+    }
+  ],
+  "market": {
+    "name": "Warenwirtschaft / Dealer Management Software für Landmaschinen & Werkstattbetriebe Deutschland",
+    "totalProviders": 15,
+    "trends": [
+      "Microsoft Dynamics 365 mit AI Copilot wird Standard-Plattform für Händler-ERP",
+      "Cloud-basierte DMS-Lösungen verdrängen On-Premise-Installationen",
+      "AI-gestützte Ersatzteil-Bedarfsprognose wird zum Differenzierungsmerkmal",
+      "Mobile-First-Ansatz: Außendienstmitarbeiter erwarten vollwertige Apps",
+      "Herstellerintegration (CLAAS, John Deere, Kubota) erfordert offene API-Architekturen",
+      "Elektronische Rechnungsstellung (E-Rechnung) wird ab 2025 Pflicht — Modernisierungsdruck"
+    ],
+    "stats": [
+      { "label": "Landmaschinenhändler DACH", "value": "~4.000" },
+      { "label": "Arista-Marktanteil (DACH)", "value": "~35%" },
+      { "label": "Cloud-Anteil Neuinstallationen", "value": "60%+" },
+      { "label": "Globaler DMS-Markt CAGR", "value": "8,5%" }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "109.000+",
+    "talentShortageRate": "79%",
+    "specificChallenges": [
+      "Senior-Entwicklerstelle seit über einem Jahr unbesetzt — C#/.NET in Münster (Hessen, 15.000 Einwohner) konkurriert mit Frankfurt und Darmstadt",
+      "5 offene Stellen bei ca. 40 Mitarbeitern — 12,5% der Belegschaft fehlt",
+      "IT-Gehälter in Südhessen 15-20% unter Frankfurt — Talente pendeln lieber in die Großstadt",
+      "Gleichzeitig 3 Vertriebsstellen offen: Expansion ohne Personal ist unmöglich"
+    ]
+  },
+  "kununu": {
+    "score": 3.9,
+    "outOf": 5,
+    "reviewCount": 11,
+    "highlights": [
+      { "label": "Karriere & Gehalt", "score": 3.8 },
+      { "label": "Unternehmenskultur", "score": 3.8 },
+      { "label": "Arbeitsumgebung", "score": 3.9 },
+      { "label": "Vielfalt", "score": 4.4 }
+    ],
+    "quotes": [
+      {
+        "text": "90% sind mit ihren Gehältern zufrieden.",
+        "sentiment": "positive"
+      },
+      {
+        "text": "Top Company 2022 — über dem Branchendurchschnitt Elektro/Elektronik (3,6).",
+        "sentiment": "positive"
+      },
+      {
+        "text": "Nur 50% Weiterempfehlung in den letzten 2 Jahren — Tendenz fallend trotz guter Gesamtbewertung.",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  "linkedinPresence": {
+    "employeeCount": 40,
+    "employeeGrowth": "Stabil",
+    "ceoLastPost": "Nicht aktiv",
+    "ceoPostTopic": "Stefan Worreschk ist erst seit Juli 2025 Geschäftsführer — noch keine sichtbare LinkedIn-Präsenz",
+    "departures": [
+      {
+        "name": "Dietrich Brandt",
+        "previousRole": "Geschäftsführer (seit 2005)",
+        "newCompany": "Ruhestand",
+        "when": "Jul 2025"
+      },
+      {
+        "name": "Werner Müller",
+        "previousRole": "Geschäftsführer (seit 2005)",
+        "newCompany": "farmpartner-tec GmbH",
+        "when": "Jul 2025"
+      },
+      {
+        "name": "Felix Klimsch",
+        "previousRole": "Prokurist",
+        "newCompany": "Unbekannt",
+        "when": "Apr 2023"
+      }
+    ]
+  },
+  "googleTrends": {
+    "product": "Arista Warenwirtschaft",
+    "competitor": "IRIUM Software",
+    "productScore": 5,
+    "competitorScore": 15,
+    "summary": "Beide Suchbegriffe haben niedriges Volumen, aber IRIUM zeigt 3x mehr Suchinteresse. TRASER Software mit Microsoft Dynamics 365 wächst am stärksten.",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Landkreis Darmstadt-Dieburg",
+    "openITRoles": 450,
+    "averageVacancyDays": 168,
+    "source": "Bundesagentur für Arbeit, Engpassanalyse 2025 (Softwareentwicklung, Region Südhessen)"
+  },
+  "financialsStory": [
+    "3,5 Mio. EUR Bilanzsumme (FY 2023/24) mit 2,1 Mio. EUR Cash — die Kasse ist prall gefüllt. Gewinnrücklagen von 2,6 Mio. EUR bei nur 314.000 EUR Verbindlichkeiten. Eigenkapitalquote 76%. C.O.S. Software ist extrem solide finanziert.",
+    "Von 2,7 Mio. EUR (FY 2020/21) auf 3,5 Mio. EUR (FY 2023/24) gewachsen. Gewinnrücklagen haben sich von 1,4 Mio. auf 2,6 Mio. EUR fast verdoppelt — das Unternehmen thesauriert konsequent. 39 Mitarbeiter (gewachsen von 32 in FY 2021/22).",
+    "Das eigentliche Problem: 5 offene Stellen bei 39 Mitarbeitern. Beide Gründer-Geschäftsführer (Brandt und Müller) haben im Juli 2025 gleichzeitig das Unternehmen verlassen. Stefan Worreschk — kein Softwareentwickler — führt jetzt allein ein Softwareunternehmen gegen IRIUM (200 Mitarbeiter) und TRASER (Microsoft-Ökosystem)."
+  ],
+  "plan": [
+    {
+      "title": "ARISTA SUPPORT",
+      "timeline": "Monat 1–3",
+      "tagline": "Ihre 1.400 Kunden helfen sich selbst — mit AI.",
+      "items": [
+        "AI Support Agent trainiert auf Arista-Dokumentation, Modulkonfiguration und Branchenwissen (Landmaschinen, Stapler, Boote)",
+        "Automatische Beantwortung der häufigsten Fragen: E-Rechnung, Schnittstellen, Arista App, Version-7-Migration",
+        "Erreichbarkeit von aktuell Mo-Fr 7:30-11:30 auf 24/7 erweitert — ohne zusätzliche Innendienst-Stelle",
+        "AI-gestützte Online-Akademie ersetzt manuelle Schulungen und reduziert Reiseaufwand im Außendienst"
+      ],
+      "result": "Support-Kapazität verdreifacht, Innendienst-Stelle eingespart, Kundenzufriedenheit messbar gesteigert"
+    },
+    {
+      "title": "ARISTA DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "Torsten Rudzoks Team liefert doppelt so schnell.",
+      "items": [
+        "AI Pair Programming für das C#/.NET-Entwicklerteam — Cursor, Copilot und Claude Code automatisieren 40-60% der Routinearbeit",
+        "AI-gestützte Testautomatisierung für Arista-Module (Warenwirtschaft, Buchhaltung, Lager, Werkstatt)",
+        "Automatisierte API-Dokumentation für SOAP/REST-Schnittstellen zu Herstellern (CLAAS, John Deere, Kubota)",
+        "Senior-Entwicklerstelle wird entbehrlich: AI macht jeden Entwickler zum Senior"
+      ],
+      "result": "Release-Zyklen halbiert, Feature-Parität mit TRASER/Dynamics hergestellt"
+    },
+    {
+      "title": "ARISTA AI-NATIVE",
+      "timeline": "Monat 9–18",
+      "tagline": "Predictive Parts — Ihr neues Alleinstellungsmerkmal.",
+      "items": [
+        "AI-gestützte Ersatzteil-Bedarfsprognose: Arista sagt dem Händler, welche Teile er bestellen muss — bevor die Saison beginnt",
+        "Intelligente Maschinenbewertung: AI bewertet Gebrauchtmaschinen anhand von Marktdaten, Betriebsstunden und Zustand",
+        "AI-Vertriebsassistent: Automatische Lead-Qualifizierung und Angebotserstellung für alle 5 Branchen",
+        "Cloud-fähige Arista-Architektur — bereit für SaaS und mobile Nutzung ohne lokale Installation"
+      ],
+      "result": "Arista wird die erste AI-native Warenwirtschaft für den Landmaschinenhandel"
+    }
+  ],
+  "killerInsight": {
+    "text": "Beide Gründer-Geschäftsführer (Dietrich Brandt und Werner Müller) haben im Juli 2025 gleichzeitig das Unternehmen verlassen. Stefan Worreschk — gelernter Landmaschinenmechaniker, kein Softwareentwickler — führt jetzt allein ein Softwareunternehmen mit 5 offenen Stellen und 1.400 Kunden, die auf Version 7 warten.",
+    "source": "Handelsregister Tostedt HRB 120160, Eintragung 30.07.2025; cos-software.de/neuer-geschaeftsleiter"
+  },
+  "pitchType": "profitable-small",
+  "accent": "#0f3061",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? TRASER Software setzt bereits auf Microsoft Dynamics 365 mit AI Copilot — Cloud-native, AI-gestützt, 350+ Standorte. IRIUM hat 200 Mitarbeiter und expandiert international. Bis 2028 wird jeder Landmaschinenhändler eine Cloud-Lösung mit AI-Funktionen erwarten.",
+  "endgameScenarioA": [
+    "TRASER Software bietet Arista-Kunden bereits eine fertige Migration auf Microsoft Dynamics 365 Business Central — mit AI Copilot, Cloud und 350+ Standorten. IRIUM betreut 27.000 Anwender in 50 Ländern mit 200 Mitarbeitern.",
+    "Ihre Senior-Entwicklerstelle ist seit über einem Jahr unbesetzt. Mit 5 offenen Positionen bei 40 Mitarbeitern fehlt Ihnen 12,5% der Belegschaft. Ohne Entwickler keine neuen Features, ohne Features wandern die 1.400 Arista-Kunden ab.",
+    "Der Generationswechsel ist vollzogen — beide Gründer sind weg. Die nächsten 24 Monate entscheiden, ob Arista die führende Branchenlösung bleibt oder von Cloud-nativen Wettbewerbern verdrängt wird."
+  ],
+  "ctaEmail": "worreschk@cos-software.de",
+  "ctaPhone": "+49 6071 30960"
+}

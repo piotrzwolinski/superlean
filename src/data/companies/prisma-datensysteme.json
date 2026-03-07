@@ -1,0 +1,303 @@
+{
+  "slug": "prisma-datensysteme",
+  "name": "PRISMA",
+  "legalName": "PRISMA Datensysteme GmbH",
+  "location": {
+    "city": "Moormerland",
+    "region": "Ostfriesland",
+    "state": "Niedersachsen",
+    "address": "Kirchstrasse 4a, 26802 Moormerland",
+    "population": 22000,
+    "nearestCities": [
+      { "name": "Leer", "distanceKm": 10 },
+      { "name": "Bremen", "distanceKm": 100 },
+      { "name": "Hamburg", "distanceKm": 200 },
+      { "name": "Berlin", "distanceKm": 450 }
+    ]
+  },
+  "founded": 1988,
+  "employees": {
+    "current": 33,
+    "previous": 35,
+    "previousYear": 2023
+  },
+  "product": {
+    "name": "aposoft",
+    "description": "Apotheken-Warenwirtschaftssystem - Warenwirtschaft, E-Rezept, AMTS, Filialverwaltung",
+    "techStack": ["Delphi", "C#", "Java", "JavaScript"],
+    "weaknesses": [
+      "Kein AI",
+      "Kein Cloud",
+      "Delphi-Codebase",
+      "E-Rezept-Retax-Bug kostete Apotheken Geld",
+      "Bundesweiter E-Rezept-Ausfall",
+      "Support-Wartezeit bis zu 1 Woche"
+    ],
+    "customerQuotes": [
+      {
+        "text": "Die Hotline ist praktisch nie direkt erreichbar. Rückrufe dauern oft eine ganze Woche oder erfolgen gar nicht mehr.",
+        "source": "aposoft-Kunde, trusted.de"
+      },
+      {
+        "text": "Die Lesegenauigkeit beim Einscannen der Rezepte ist ungenugend, weniger als ein Drittel der gut leserlichen Rezepte wird korrekt erkannt.",
+        "source": "aposoft-Kunde, trusted.de"
+      }
+    ],
+    "rating": {
+      "score": 3.5,
+      "outOf": 5,
+      "reviewCount": 8,
+      "platform": "trusted.de"
+    }
+  },
+  "management": {
+    "ceo": "Marc Beushausen",
+    "team": ["Sabine Rothmann", "Jens Kauffmann (seit Mai 2025, IT-Strategie, vorher GfI)", "Dirk Wulkow (Leiter Produktentwicklung)"]
+  },
+  "ownership": {
+    "parent": "GfI Gesellschaft für Informations- und Datenverarbeitung mbH (NARZ)",
+    "parentDescription": "240 Mitarbeiter, Norddeutsches Apotheken-Rechenzentrum",
+    "since": 2020
+  },
+  "financials": {
+    "year": 2024,
+    "totalAssets": 5567781,
+    "cash": 3855058,
+    "retainedEarnings": 3077315,
+    "liabilities": 2214449,
+    "shareholderDebt": 1790000
+  },
+  "openPositions": [
+    {
+      "title": "Softwareentwickler C#, Java, JavaScript",
+      "location": "Rörichmoor, Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 52000,
+      "aiAlternative": "AI-augmented Development - 2x Output pro Entwickler",
+      "aiReplaceability": 50,
+      "savingsNote": "Ihre bestehenden Entwickler liefern doppelt so schnell mit AI Pair Programming."
+    },
+    {
+      "title": "Teamleiter/in Technik IT-Infrastruktur & Kassensysteme",
+      "location": "Rörichmoor, Hybrid",
+      "type": "management",
+      "postedAgo": "",
+      "estimatedSalary": 77000,
+      "aiAlternative": "Weiterhin benötigt - aber mit kleinerem Team darunter",
+      "aiReplaceability": 10,
+      "savingsNote": "Diese Rolle bleibt. Aber das Team darunter wird durch AI effizienter."
+    },
+    {
+      "title": "Delphi-Softwareentwickler",
+      "location": "Rörichmoor, Hybrid",
+      "type": "development",
+      "postedAgo": "Seit 2 Monaten online",
+      "estimatedSalary": 57000,
+      "aiAlternative": "AI-gestützte Code-Migration Delphi zu modernem Stack",
+      "aiReplaceability": 70,
+      "savingsNote": "41 Delphi-Stellen in ganz Deutschland. AI migriert den Code 3x schneller als jeder Entwickler, den Sie nie finden werden."
+    },
+    {
+      "title": "Mitarbeiter/in 1st-Level Support / IT-Helpdesk",
+      "location": "Rörichmoor, Hybrid",
+      "type": "support",
+      "postedAgo": "",
+      "estimatedSalary": 35000,
+      "aiAlternative": "AI Support Agent - 24/7, trainiert auf aposoft-Wissensdatenbank",
+      "aiReplaceability": 85,
+      "savingsNote": "80-90% aller Tickets automatisierbar. Verfügbar 24/7. Perfektes Deutsch. Keine Wartezeit."
+    },
+    {
+      "title": "Anwender-Support im Innendienst",
+      "location": "Rörichmoor, Hybrid",
+      "type": "support",
+      "postedAgo": "",
+      "estimatedSalary": 35000,
+      "aiAlternative": "AI Support Agent für Anwender-Anfragen",
+      "aiReplaceability": 85,
+      "savingsNote": "Routinefragen zu aposoft-Funktionen? AI beantwortet sie sofort - aus Ihrer Dokumentation."
+    },
+    {
+      "title": "Azubis Fachinformatiker Anwendungsentwicklung",
+      "location": "Rörichmoor, On-site",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 15000,
+      "aiAlternative": "AI-Trainingsplattform für bestehende Entwickler",
+      "aiReplaceability": 40,
+      "savingsNote": "Statt 3 Jahre Ausbildung: Ihre bestehenden Entwickler lernen in 3 Monaten mit AI."
+    },
+    {
+      "title": "Anwender-Support im Innen- und Außendienst",
+      "location": "Rörichmoor, Hybrid",
+      "type": "support",
+      "postedAgo": "Seit 4 Tagen online",
+      "estimatedSalary": 40000,
+      "aiAlternative": "AI Innendienst + reduzierter Außendienst",
+      "aiReplaceability": 60,
+      "savingsNote": "Innendienst-Anteil komplett durch AI. Außendienst bleibt - aber besser vorbereitet durch AI-Briefings."
+    },
+    {
+      "title": "Kauffrau/-mann für Büromanagement",
+      "location": "Rörichmoor, On-site",
+      "type": "admin",
+      "postedAgo": "Seit 4 Tagen online",
+      "estimatedSalary": 31000,
+      "aiAlternative": "AI-Büroautomatisierung - Rechnungen, Termine, Korrespondenz",
+      "aiReplaceability": 75,
+      "savingsNote": "Rechnungsstellung, Terminplanung, Korrespondenz - 70-80% automatisierbar."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "PHARMATECHNIK (IXOS)",
+      "customers": "7.000+",
+      "employees": "670",
+      "owner": "Grundergeführt",
+      "aiMaturity": 3,
+      "cloudReady": 1,
+      "highlight": "50+ AI-Module, #1 im Markt (Note 1.87), AI-Preisoptimierung, AI-Bestandsmanagement"
+    },
+    {
+      "name": "awinta (NOVENTI)",
+      "customers": "7.000",
+      "employees": "Gross",
+      "owner": "NOVENTI Health SE",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "Marktfuhrer nach Kundenzahl, Migration zu Microservices"
+    },
+    {
+      "name": "ADG (Phoenix)",
+      "customers": "4.700+",
+      "employees": "600+",
+      "owner": "Phoenix Group",
+      "aiMaturity": 1,
+      "cloudReady": 1,
+      "highlight": "Neue Entwicklungsburos, mobile Apps, zweitgrosster Anbieter"
+    },
+    {
+      "name": "CGM LAUER",
+      "customers": "Gross",
+      "employees": "Gross",
+      "owner": "CompuGroup Medical",
+      "aiMaturity": 1,
+      "cloudReady": 2,
+      "highlight": "Borsennotiert, 110+ Jahre Markterfahrung, internationaler Marktfuhrer"
+    }
+  ],
+  "market": {
+    "name": "Apothekensoftware Deutschland",
+    "totalProviders": 14,
+    "trends": [
+      "700 Mio+ E-Rezepte ausgestellt",
+      "62% der Neuinstallationen sind Cloud-basiert",
+      "AI-Bestandsprognose wird zum Standard",
+      "86% der Apothekeninhaber: Ohne Digitalisierung nicht mehr wettbewerbsfähig",
+      "Nur 13% der Apotheken nutzen aktuell AI - aber 81% sehen das Potenzial"
+    ],
+    "stats": [
+      { "label": "Markt CAGR", "value": "11,2%" },
+      { "label": "E-Rezepte ausgestellt", "value": "700 Mio+" },
+      { "label": "Cloud-Anteil Neuinstallationen", "value": "62%" },
+      { "label": "Apotheken in Deutschland", "value": "~18.000" }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "137.000+",
+    "talentShortageRate": "83%",
+    "specificChallenges": [
+      "41 offene Delphi-Stellen in ganz Deutschland",
+      "Landkreis Leer entwickelt öffentlich KI-Strategien wegen Fachkräftemangel",
+      "IT-Gehälter in Niedersachsen 15-20% unter München/Hamburg",
+      "Remote-Angebote der Großstädte ziehen Talente ab"
+    ]
+  },
+  "linkedinPresence": {
+    "employeeCount": 33,
+    "employeeGrowth": "-6% in 12 Monaten",
+    "ceoLastPost": "Kein LinkedIn-Profil",
+    "ceoPostTopic": "Marc Beushausen hat kein LinkedIn-Profil — ungewöhnlich für den CEO eines Software-Unternehmens in 2026",
+    "departures": [
+      {
+        "name": "Hauke Stirler",
+        "previousRole": "Leiter Entwicklung / Prokurist (20+ Jahre)",
+        "newCompany": "Pharmagest (Equasens Group) — direkter Konkurrent",
+        "when": "April 2025"
+      }
+    ]
+  },
+  "googleTrends": {
+    "product": "aposoft",
+    "competitor": "PHARMATECHNIK",
+    "productScore": 2,
+    "competitorScore": 55,
+    "summary": "aposoft registriert in den meisten Wochen null Suchvolumen. PHARMATECHNIK stabil bei Ø 55 (Skala 0-100). 27x mehr Suchinteresse als aposoft. Steigende Query: 'aposoft helpdesk' (+550%).",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Landkreis Leer",
+    "openITRoles": 49,
+    "averageVacancyDays": 196,
+    "source": "Bundesagentur für Arbeit, Engpassanalyse 2024 / StepStone Landkreis Leer"
+  },
+  "financialsStory": [
+    "3,9 Mio. € auf dem Konto — aber 1,8 Mio. davon sind Gesellschafterdarlehen der GfI. Das Geld steht Ihnen nicht frei zur Verfügung.",
+    "Der Bilanzgewinn liegt seit Jahren bei rund 3 Mio. €. Das Geschäft trägt sich — aber es wächst nicht.",
+    "Ihr Leiter Entwicklung — 20 Jahre im Unternehmen, Prokurist — ist im April 2025 zu Pharmagest gegangen. Einem direkten Konkurrenten, der gerade den deutschen Markt betritt."
+  ],
+  "plan": [
+    {
+      "title": "APOSOFT SUPPORT",
+      "timeline": "Monat 1–3",
+      "tagline": "Keine Woche Wartezeit mehr.",
+      "items": [
+        "Support-Agent trainiert auf aposoft-Dokumentation, E-Rezept-Workflows und AMTS-Modulen",
+        "Integration in Ihr bestehendes Ticketsystem — Kunden merken keinen Bruch",
+        "Automatische Beantwortung der häufigsten Anfragen: Konfiguration, E-Rezept-Retax, Updates",
+        "Ihre 3 Support-Mitarbeiter werden Spezialisten für komplexe Fälle statt Ticket-Abarbeiter"
+      ],
+      "result": "Wartezeit von 1 Woche auf unter 5 Minuten — 'aposoft helpdesk' wird kein Suchtrend mehr"
+    },
+    {
+      "title": "APOSOFT DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "Delphi-Migration ohne Delphi-Entwickler.",
+      "items": [
+        "AI-gestützte Migration der Delphi-Codebasis zu C#/.NET — Modul für Modul",
+        "AI Pair Programming für Ihr C#/Java/JavaScript-Team — sofort schnellere Releases",
+        "Automatisierte Tests für E-Rezept- und Retax-kritische Pfade",
+        "Strukturierter Wissenstransfer: Dokumentation der Architektur, die bisher nur im Kopf von Hauke Stirler war"
+      ],
+      "result": "Feature-Velocity verdoppelt, Delphi-Abhängigkeit halbiert"
+    },
+    {
+      "title": "APOSOFT AI-NATIVE",
+      "timeline": "Monat 9–18",
+      "tagline": "aposoft wird die erste AI-native Apothekensoftware.",
+      "items": [
+        "AI-gestützte Bestandsprognose und automatische Nachbestellung für Apotheken",
+        "Intelligente AMTS-Prüfung: AI erkennt Wechselwirkungen schneller als regelbasierte Systeme",
+        "AI-Rezepterkennung mit >95% Genauigkeit — statt 'weniger als ein Drittel' laut Ihren Kunden",
+        "Cloud-fähige Architektur: aposoft als SaaS für die nächste Generation Apotheken"
+      ],
+      "result": "Nicht mehr 3,5 Sterne auf trusted.de — sondern die Referenz im Markt"
+    }
+  ],
+  "killerInsight": {
+    "text": "Ihr Leiter Entwicklung — 20 Jahre im Unternehmen, Prokurist — ist im April 2025 zu Pharmagest gegangen. Einem direkten Konkurrenten, der gerade den deutschen Markt betritt.",
+    "source": "Apotheke ADHOC, 6. März 2025"
+  },
+  "pitchType": "cash-rich",
+  "accent": "#003d7a",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? PHARMATECHNIK plant bis dahin 80+ AI-Module. Danach wird der Abstand schwer einholbar.",
+  "endgameScenarioA": [
+    "PHARMATECHNIK hat 80+ AI-Module. awinta ist vollständig Cloud-native.",
+    "Ihre Delphi-Codebase ist unwartbar. Niemand in Deutschland schreibt mehr Delphi.",
+    "Ihr Support-Team kann nicht mithalten. Kunden wechseln zu Anbietern mit AI-gestützter Optimierung, die messbare Effizienzgewinne liefern."
+  ],
+  "ctaEmail": "",
+  "ctaPhone": "+49 4954 3059 100"
+}

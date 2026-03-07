@@ -1,65 +1,71 @@
-import Image from "next/image";
+import Link from "next/link";
+import { getAllCompanySlugs, getCompanyData } from "@/lib/utils";
 
 export default function Home() {
+  const slugs = getAllCompanySlugs();
+  const companies = slugs
+    .map((s) => getCompanyData(s)!)
+    .filter(Boolean)
+    .sort((a, b) => a.name.localeCompare(b.name));
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <main className="min-h-screen bg-white px-6 py-16">
+      <div className="max-w-4xl mx-auto">
+        <h1 className="text-4xl font-black mb-2">SuperLean</h1>
+        <p className="text-neutral-500 mb-12">
+          AI-Transformation Pitches &mdash; {companies.length} Unternehmen
+        </p>
+
+        <div className="space-y-4">
+          {companies.map((c) => (
+            <Link
+              key={c.slug}
+              href={`/${c.slug}`}
+              className="block border border-neutral-200 rounded-xl p-6 hover:border-neutral-400 hover:shadow-sm transition-all group"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+              <div className="flex items-start justify-between gap-4">
+                <div>
+                  <div className="flex items-center gap-3 mb-1">
+                    <div
+                      className="w-3 h-3 rounded-full shrink-0"
+                      style={{ backgroundColor: c.accent }}
+                    />
+                    <h2 className="text-xl font-black group-hover:underline">
+                      {c.name}
+                    </h2>
+                    <span className="text-xs bg-neutral-100 text-neutral-500 rounded-full px-2 py-0.5">
+                      {c.pitchType}
+                    </span>
+                  </div>
+                  <p className="text-neutral-500 text-sm ml-6">
+                    {c.legalName} &middot; {c.location.city},{" "}
+                    {c.location.state}
+                  </p>
+                  <p className="text-neutral-400 text-sm ml-6 mt-1">
+                    {c.product.name} &middot; {c.employees.current} MA &middot;{" "}
+                    {c.openPositions.length} offene Stellen &middot;{" "}
+                    {c.product.techStack.slice(0, 3).join(", ")}
+                  </p>
+                </div>
+                <span className="text-neutral-300 group-hover:text-neutral-500 text-2xl shrink-0 mt-1">
+                  &rarr;
+                </span>
+              </div>
+            </Link>
+          ))}
+        </div>
+
+        {companies.length === 0 && (
+          <p className="text-neutral-400">
+            Keine Unternehmen konfiguriert. Legen Sie eine JSON-Datei in
+            src/data/companies/ an.
           </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+        )}
+
+        <p className="text-neutral-300 text-xs mt-12 text-center">
+          SuperLean &middot; Alexander Grosse &amp; Piotr Zwolinski
+        </p>
+      </div>
+    </main>
   );
 }

@@ -1,0 +1,315 @@
+{
+  "slug": "taktiq",
+  "name": "TAKTIQ",
+  "legalName": "TAKTIQ GmbH & Co. KG",
+  "location": {
+    "city": "Paderborn",
+    "region": "Ostwestfalen",
+    "state": "Nordrhein-Westfalen",
+    "address": "Am Hoppenhof 32, 33104 Paderborn",
+    "population": 155000,
+    "nearestCities": [
+      { "name": "Bielefeld", "distanceKm": 50 },
+      { "name": "Dortmund", "distanceKm": 104 },
+      { "name": "Hannover", "distanceKm": 115 },
+      { "name": "Kassel", "distanceKm": 85 }
+    ]
+  },
+  "founded": 2010,
+  "employees": {
+    "current": 34,
+    "previous": 30,
+    "previousYear": 2023
+  },
+  "product": {
+    "name": "AssemblySuite",
+    "description": "Software für Austaktung, Auftragssequenzierung und Programmszenarienplanung variantenreicher Montagelinien — Desktop + Server-Backend",
+    "techStack": [".NET", "C#", "SQL", "Desktop (WPF/WinForms)", "Server-Backend"],
+    "weaknesses": [
+      "Keine AI-gestützte Optimierung — rein algorithmisch",
+      "Desktop-Software statt Cloud-native SaaS",
+      "Kein Digital Twin oder 3D-Visualisierung",
+      "Kein integriertes Predictive Analytics",
+      "Hohe Abhängigkeit von .NET-Desktop-Architektur"
+    ],
+    "customerQuotes": [
+      {
+        "text": "TAKTIQ hilft uns Arbeitsinhalte und Prozesse sichtbar zu machen. Wir erkennen, wo Verschwendung entsteht, können Sonderaufträge gezielt bewerten und unsere Fertigungszeiten kontinuierlich verbessern. Das schafft Transparenz und macht Schwankungen beherrschbar.",
+        "source": "Mike Appenmaier, Leiter Prozessplanung bei Dethleffs, taktiq.de"
+      }
+    ],
+    "rating": {
+      "score": 4.9,
+      "outOf": 5,
+      "reviewCount": 25,
+      "platform": "kununu (Arbeitgeberbewertung)"
+    }
+  },
+  "management": {
+    "ceo": "Dr. Simon Altemeier",
+    "team": ["Dr. Christoph Danne"]
+  },
+  "ownership": {
+    "parent": null,
+    "parentDescription": "Inhabergeführt, Ausgründung der Universität Paderborn (2010). Persönlich haftende Gesellschafterin: TAKTIQ Verwaltungsgesellschaft mbH (HRB 9724)",
+    "since": null
+  },
+  "financials": {
+    "year": 2023,
+    "totalAssets": 2421686,
+    "cash": 0,
+    "retainedEarnings": 0,
+    "liabilities": 0,
+    "shareholderDebt": 0,
+    "_note": "ACHTUNG: Nur die Bilanzsumme konnte aus öffentlichen Quellen (Implisense/North Data) verifiziert werden. Detaillierte Positionen (Kassenbestand, Bilanzgewinn, Verbindlichkeiten, Gesellschafterdarlehen) sind nur über kostenpflichtigen Zugang zum Bundesanzeiger/North Data Premium verfügbar. Die hier mit 0 ausgewiesenen Werte bedeuten NICHT null, sondern 'nicht verfügbar'. Vor Nutzung in der Präsentation MÜSSEN diese Werte aus dem Bundesanzeiger nachgetragen werden."
+  },
+  "financialsHistory": [
+    {
+      "year": 2023,
+      "totalAssets": 2421686,
+      "cash": 0,
+      "retainedEarnings": 0,
+      "liabilities": 0,
+      "shareholderDebt": 0
+    },
+    {
+      "year": 2022,
+      "totalAssets": 3627322,
+      "cash": 0,
+      "retainedEarnings": 0,
+      "liabilities": 0,
+      "shareholderDebt": 0
+    },
+    {
+      "year": 2021,
+      "totalAssets": 0,
+      "cash": 0,
+      "retainedEarnings": 0,
+      "liabilities": 0,
+      "shareholderDebt": 0,
+      "_note": "Jahresabschluss 2021 beim Bundesanzeiger hinterlegt, Bilanzsumme nicht frei zugänglich"
+    }
+  ],
+  "openPositions": [
+    {
+      "title": "Software Engineer .NET",
+      "location": "Paderborn, Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 58000,
+      "aiAlternative": "AI Pair Programming — 2x Output pro .NET-Entwickler mit Cursor/Copilot/Claude Code",
+      "aiReplaceability": 45,
+      "savingsNote": "Ihre bestehenden .NET-Entwickler liefern doppelt so schnell mit AI Pair Programming. 40-60% der Routinearbeit — Unit Tests, Boilerplate, CRUD-Operationen — werden automatisiert. Sie brauchen weniger Köpfe für den gleichen Output."
+    },
+    {
+      "title": "IT-Consultant für Produktionsplanung in der Serienfertigung",
+      "location": "Paderborn, Hybrid + Reisetätigkeit",
+      "type": "support",
+      "postedAgo": "",
+      "estimatedSalary": 55000,
+      "aiAlternative": "AI-gestütztes Onboarding — AssemblySuite-Konfigurationsassistent",
+      "aiReplaceability": 40,
+      "savingsNote": "Ein AI-Assistent, trainiert auf der AssemblySuite-Dokumentation und Best Practices aus 50+ Kundenprojekten, übernimmt die standardisierten Konfigurationsschritte. Ihre Berater konzentrieren sich auf komplexe Integrationen."
+    },
+    {
+      "title": "Sales Manager",
+      "location": "Paderborn, Hybrid",
+      "type": "management",
+      "postedAgo": "",
+      "estimatedSalary": 65000,
+      "aiAlternative": "AI-gestützte Lead-Qualifizierung + automatisierte Demo-Vorbereitung",
+      "aiReplaceability": 25,
+      "savingsNote": "Diese Rolle bleibt — aber AI übernimmt Lead-Scoring, automatisierte Angebotserstellung und individuelle Demo-Vorbereitung auf Basis der Produktionsdaten des Interessenten. Der Sales Manager konzentriert sich auf Abschlüsse bei BMW, Porsche & Co."
+    },
+    {
+      "title": "IT Systems Engineer – Infrastruktur & Clouddienste",
+      "location": "Paderborn, Hybrid",
+      "type": "development",
+      "postedAgo": "",
+      "estimatedSalary": 52000,
+      "aiAlternative": "AI-gestütztes IT-Operations-Management — automatisierte Infrastrukturüberwachung",
+      "aiReplaceability": 55,
+      "savingsNote": "Cloud-Migration und automatisiertes Monitoring mit AI reduzieren den Bedarf an manueller Infrastruktur-Betreuung. Ein AI-gestütztes System erkennt Probleme proaktiv und löst 70% der Standardfälle automatisch."
+    },
+    {
+      "title": "Academic Collaboration Manager",
+      "location": "Paderborn, Hybrid",
+      "type": "management",
+      "postedAgo": "",
+      "estimatedSalary": 50000,
+      "aiAlternative": "AI-Content-Pipeline für akademische Partnerschaften",
+      "aiReplaceability": 35,
+      "savingsNote": "AI generiert Lehrmaterialien, Fallstudien und Vorlesungsinhalte auf Basis der AssemblySuite-Dokumentation. Automatisierte Pflege von Partnerschaften über CRM-Integration. Der persönliche Kontakt bleibt, aber der Content entsteht 3x schneller."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Siemens Tecnomatix (Opcenter)",
+      "customers": "Tausende",
+      "employees": "Konzern",
+      "owner": "Siemens AG",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "Tecnomatix Line Balancing + Plant Simulation, Cloud-native Opcenter X, AI/IoT-Plattform, weltweiter Marktführer in Digital Manufacturing"
+    },
+    {
+      "name": "Dassault Systèmes (DELMIA)",
+      "customers": "Tausende",
+      "employees": "Konzern",
+      "owner": "Dassault Systèmes SE",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "3DEXPERIENCE-Plattform, DELMIA Process Planning mit AI-Optimierung, 3D-Digital-Twin, integrierte Ergonomieanalyse"
+    },
+    {
+      "name": "MPDV Mikrolab (HYDRA X)",
+      "customers": "750+",
+      "employees": "530",
+      "owner": "Inhabergeführt",
+      "aiMaturity": 3,
+      "cloudReady": 2,
+      "highlight": "AI Suite mit KI-Tochter AIMES, 530 Mitarbeiter, €80 Mio. Umsatz, MES-Marktführer im DACH-Mittelstand"
+    },
+    {
+      "name": "Siemens Teamcenter (Process Simulate)",
+      "customers": "Groß",
+      "employees": "Konzern",
+      "owner": "Siemens AG",
+      "aiMaturity": 3,
+      "cloudReady": 3,
+      "highlight": "Process Simulate mit 3D-Robotersimulation, AI-basierte Arbeitsplatzoptimierung, vollständiger Digital Twin der Montagelinie"
+    }
+  ],
+  "market": {
+    "name": "Austaktungs- und Montageplanungssoftware Deutschland",
+    "totalProviders": 15,
+    "trends": [
+      "AI-gestützte Montagelinienoptimierung wird zum Standard bei OEMs — Siemens und Dassault integrieren maschinelles Lernen direkt in die Planung",
+      "Cloud-native Lösungen ersetzen Desktop-Software — 62% der Neuimplementierungen sind Cloud-basiert",
+      "Digital Twin der Montagelinie wird von BMW, VW und Daimler als Voraussetzung gefordert",
+      "Globaler Markt für Manufacturing Simulation wächst 10% jährlich auf $4,5 Mrd. bis 2030",
+      "Automobilhersteller bündeln Planungstools auf wenige Plattformen — Konsolidierungsdruck auf Nischenanbieter"
+    ],
+    "stats": [
+      { "label": "Globaler Markt Manufacturing Simulation", "value": "$2,8 Mrd. (2025)" },
+      { "label": "CAGR bis 2030", "value": "10,2%" },
+      { "label": "Anteil Cloud-Neuimplementierungen", "value": "62%" },
+      { "label": "OEM-Investitionen in Digitale Fabrik (DE)", "value": "€3,4 Mrd./Jahr" }
+    ]
+  },
+  "talentMarket": {
+    "nationalOpenITRoles": "109.000+",
+    "talentShortageRate": "79%",
+    "specificChallenges": [
+      "5 offene Stellen gleichzeitig bei nur 34 Mitarbeitern — fast 15% der Belegschaft fehlt",
+      ".NET-Entwickler mit Produktionsplanungs-Know-how sind extrem selten — eine Nische in der Nische",
+      "Paderborn: 155.000 Einwohner — IT-Talente pendeln nach Bielefeld, Dortmund oder ins Home-Office bei Konzernen",
+      "Vakanzzeit im Kreis Paderborn 2024: 205 Tage — 12,9% länger als im Vorjahr (Bundesagentur für Arbeit)",
+      "Siemens und Dassault bieten Remote-Jobs mit Konzerngehältern — TAKTIQ konkurriert als KMU in Ostwestfalen"
+    ]
+  },
+  "kununu": {
+    "score": 4.9,
+    "outOf": 5,
+    "reviewCount": 25,
+    "highlights": [
+      { "label": "Karriere & Gehalt", "score": 4.8 },
+      { "label": "Unternehmenskultur", "score": 4.9 },
+      { "label": "Arbeitsumgebung", "score": 4.8 },
+      { "label": "Vielfalt", "score": 5.0 }
+    ],
+    "quotes": [
+      {
+        "text": "Arbeitsatmosphäre und Teamgeist bei TAKTIQ sind einfach einmalig! Davon sind sogar unsere Kunden begeistert.",
+        "sentiment": "positive"
+      },
+      {
+        "text": "Mir ist wichtig, dass man Softwareentwicklung langfristig denkt. TAKTIQ überzeugt hier durch aktuelle Technologien und Wertschätzung hoher Codequalität.",
+        "sentiment": "positive"
+      },
+      {
+        "text": "Auch als Studi entwickle ich schon spannende Features, die bei Kunden weltweit in Einsatz kommen.",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  "linkedinPresence": {
+    "employeeCount": 34,
+    "employeeGrowth": "+13% in 12 Monaten",
+    "ceoLastPost": "Aktiv (Dr. Christoph Danne, Pitch Club 2024 Bielefeld)",
+    "ceoPostTopic": "Recruiting, Arbeitgebermarke, Pitch Club Bielefeld",
+    "departures": []
+  },
+  "googleTrends": {
+    "product": "TAKTIQ AssemblySuite",
+    "competitor": "Siemens Tecnomatix",
+    "productScore": 1,
+    "competitorScore": 65,
+    "summary": "AssemblySuite hat nahezu null Suchvolumen. Siemens Tecnomatix dominiert mit stabilem Interesse (50-80). DELMIA zeigt ebenfalls starkes Volumen. Die Nische Austaktung wird von Konzernlösungen überlagert.",
+    "period": "2021–2026"
+  },
+  "regionalLabor": {
+    "landkreis": "Kreis Paderborn",
+    "openITRoles": 145,
+    "averageVacancyDays": 205,
+    "source": "Bundesagentur für Arbeit, Jahresbilanz 2024 (Kreis Paderborn)"
+  },
+  "financialsStory": [
+    "Die Bilanzsumme ist von 3,6 Mio. € (2022) auf 2,4 Mio. € (2023) gefallen — ein Rückgang von 33%. Das deutet auf hohe Ausschüttungen, Investitionen oder einen Bilanzumbau hin.",
+    "Detaillierte Positionen (Kassenbestand, Bilanzgewinn, Verbindlichkeiten) konnten aus öffentlich zugänglichen Quellen nicht verifiziert werden. Diese Daten müssen vor der Präsentation aus dem Bundesanzeiger nachgetragen werden.",
+    "Das eigentliche Risiko ist nicht die Bilanz, sondern die strategische Position: 34 Mitarbeiter mit einer Desktop-Software gegen Siemens (Konzern), Dassault (Konzern) und MPDV (530 Mitarbeiter mit eigener AI-Tochter). Fünf offene Stellen zeigen, dass das Wachstum an Personal scheitert."
+  ],
+  "plan": [
+    {
+      "title": "ASSEMBLYSUITE SUPPORT",
+      "timeline": "Monat 1–3",
+      "tagline": "Ihre Kunden konfigurieren AssemblySuite selbst — mit AI-Hilfe.",
+      "items": [
+        "AI-Support-Agent trainiert auf AssemblySuite-Dokumentation, Austaktungs-Best-Practices und Integrations-Know-how aus 50+ Kundenprojekten",
+        "Automatische Beantwortung der häufigsten Fragen: Austaktungskonfiguration, Sequenzierungsparameter, Datenimport aus SAP/ERP",
+        "Onboarding-Assistent: Neue AssemblySuite-Kunden kommen in Tagen statt Wochen produktiv — ohne dass ein IT-Consultant reisen muss",
+        "Ihr IT-Consultant-Team konzentriert sich auf komplexe Projekte bei BMW, Porsche und Daimler"
+      ],
+      "result": "Beratungskapazität verdoppelt ohne zusätzliche Stelle — Reisekosten um 40% reduziert"
+    },
+    {
+      "title": "ASSEMBLYSUITE DEVELOPMENT",
+      "timeline": "Monat 3–9",
+      "tagline": "34 Mitarbeiter liefern wie 70.",
+      "items": [
+        "AI Pair Programming für Ihr .NET-Entwicklerteam — schnellere Feature-Entwicklung mit Cursor, Copilot und Claude Code",
+        "AI-gestützte Testautomatisierung für Optimierungsalgorithmen und Sequenzierungslogik",
+        "Automatisierte Code-Dokumentation: Jede Änderung an der AssemblySuite wird sofort dokumentiert — kein Wissen geht verloren",
+        "AI-unterstützte Cloud-Migration: Desktop-Architektur schrittweise auf Cloud-fähiges SaaS-Modell umstellen"
+      ],
+      "result": "Release-Zyklen halbiert, Cloud-Readiness erreicht"
+    },
+    {
+      "title": "ASSEMBLYSUITE AI-NATIVE",
+      "timeline": "Monat 9–18",
+      "tagline": "AI-gestützte Austaktung — Ihr Alleinstellungsmerkmal gegen Siemens.",
+      "items": [
+        "AI-basierte Montagelinien-Optimierung: Maschinelles Lernen erkennt Muster in historischen Taktdaten und schlägt optimale Auftaktungen vor",
+        "Predictive Line Balancing: AI prognostiziert Engpässe bei Variantenwechseln, bevor sie auftreten",
+        "Digital-Twin-Light: 2D/3D-Visualisierung der Montagelinie direkt in der AssemblySuite — ohne Siemens-Lizenz",
+        "Cloud-native AssemblySuite als SaaS — mit AI-API für Kunden-Integration in bestehende MES-Landschaften"
+      ],
+      "result": "AssemblySuite wird die erste AI-native Austaktungssoftware für den Mittelstand"
+    }
+  ],
+  "killerInsight": {
+    "text": "Bilanzsumme 2023: 2,4 Mio. € (−33% zum Vorjahr). 5 offene Stellen bei 34 Mitarbeitern. Und die Konkurrenz heißt Siemens, Dassault und MPDV mit eigener KI-Tochter.",
+    "source": "Implisense/North Data (Jahresabschluss 2023), taktiq.de/jobs (März 2026)"
+  },
+  "pitchType": "profitable-small",
+  "accent": "#007388",
+  "countdown": "2028-03-07T00:00:00.000Z",
+  "countdownReason": "Warum März 2028? Siemens integriert AI-Optimierung direkt in Tecnomatix und Opcenter X. Dassault baut DELMIA zur AI-first-Plattform aus. MPDV investiert über seine KI-Tochter AIMES zweistellige Millionenbeträge in AI. Ohne eigene AI-Strategie wird die AssemblySuite bei den nächsten Ausschreibungen von BMW und Daimler nicht mehr auf der Shortlist stehen.",
+  "endgameScenarioA": [
+    "Siemens Tecnomatix und Dassault DELMIA bieten AI-gestützte Austaktung als integrierte Funktion ihrer Plattformen. Die Kunden müssen nicht mehr zwischen Tools wechseln — alles kommt aus einer Hand.",
+    "Ihre Desktop-Software kann keinen Digital Twin, keine Cloud-Kollaboration und keine AI-Optimierung. BMW und Daimler fordern genau das in ihren nächsten Ausschreibungen. Die AssemblySuite wird als Nischentool wahrgenommen.",
+    "MPDV hat mit 530 Mitarbeitern und einer eigenen KI-Tochter (AIMES) die Ressourcen, um AI-gestützte Produktionsplanung im Mittelstand zu etablieren. Ihre 34 Mitarbeiter — davon 5 Stellen unbesetzt — können dieses Tempo nicht mitgehen."
+  ],
+  "ctaEmail": "kontakt@taktiq.de",
+  "ctaPhone": "+49 5251 68262-00"
+}
