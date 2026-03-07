@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SuperLean
 
-## Getting Started
+Hyper-personalized AI-transformation outreach landing pages for German software companies.
 
-First, run the development server:
+Each company gets a unique `/{slug}` page with a 12-slide narrative built entirely from a single JSON data file.
+
+## Setup
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) — overview page with links to all companies.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Adding a company
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Research the target company (see data sources below)
+2. Create `src/data/companies/{slug}.json` following the schema in `src/lib/types.ts`
+3. The page appears automatically at `/{slug}`
 
-## Learn More
+No code changes needed — everything is data-driven.
 
-To learn more about Next.js, take a look at the following resources:
+## Project structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+src/
+  app/
+    page.tsx                    # Overview page (/)
+    [company]/page.tsx          # Dynamic route (/{slug})
+  components/
+    LandingPage.tsx             # Slide orchestrator
+    slides/                     # 12 slide components
+    ui/                         # AnimateIn, Countdown, StickyNav
+  data/
+    companies/                  # One JSON per company
+  lib/
+    types.ts                    # CompanyData interface
+    pitch.ts                    # Pitch archetype copy (4 types)
+    utils.ts                    # Data loading helpers
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Slide sequence
 
-## Deploy on Vercel
+1. **Hero** — Hook with product name, headcount, open positions, location
+2. **Insight** — One devastating fact, full-screen
+3. **Mirror** — Competitor table with AI/Cloud maturity, Google Trends
+4. **Location** — Talent problem: rural location, Kununu, LinkedIn departures
+5. **Financials** — Balance sheet from Unternehmensregister, narrative
+6. **Shift** — Pivot: don't hire, use AI
+7. **Team** — Alexander Grosse & Piotr Zwolinski
+8. **Calculator** — Interactive: each open position vs AI alternative
+9. **Process** — Company-specific 3-phase roadmap
+10. **EndGame** — Two scenarios: did nothing vs went AI-native
+11. **Countdown** — Timer to competitor milestone
+12. **CTA** — Free AI-readiness call, pre-filled form
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Pitch archetypes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Each company is assigned one of 4 types that control tone across all slides:
+
+- `cash-rich` — Has money but isn't investing in AI
+- `profitable-small` — Steady profits, small team, needs leverage
+- `talent-bleeding` — Growing business but losing/can't hire people
+- `declining` — Shrinking assets, urgent transformation needed
+
+## Tech stack
+
+- Next.js 16 (App Router, static generation)
+- React 19
+- Tailwind CSS 4
+- TypeScript 5
+
+## Data sources
+
+| Data | Source |
+|------|--------|
+| Financials (3+ years) | unternehmensregister.de (free, no login) |
+| Employee count | Jahresabschluss Anhang |
+| Open positions | LinkedIn Jobs, company career page |
+| Salary estimates | Stepstone, Gehalt.de |
+| Competitors | Industry research |
+| Employee reviews | kununu.com |
+| Search trends | Google Trends |
+| Regional labor | Bundesagentur für Arbeit |
+| Brand color | Company website CSS |
