@@ -55,39 +55,48 @@
     "since": null
   },
   "financials": {
-    "year": 2023,
+    "year": 2024,
     "totalAssets": 2421686,
-    "cash": 0,
+    "cash": 2039938,
     "retainedEarnings": 0,
-    "liabilities": 0,
-    "shareholderDebt": 0,
-    "_note": "ACHTUNG: Nur die Bilanzsumme konnte aus öffentlichen Quellen (Implisense/North Data) verifiziert werden. Detaillierte Positionen (Kassenbestand, Bilanzgewinn, Verbindlichkeiten, Gesellschafterdarlehen) sind nur über kostenpflichtigen Zugang zum Bundesanzeiger/North Data Premium verfügbar. Die hier mit 0 ausgewiesenen Werte bedeuten NICHT null, sondern 'nicht verfügbar'. Vor Nutzung in der Präsentation MÜSSEN diese Werte aus dem Bundesanzeiger nachgetragen werden."
+    "liabilities": 1157273,
+    "shareholderDebt": 1098185
   },
   "financialsHistory": [
     {
-      "year": 2023,
+      "year": 2024,
       "totalAssets": 2421686,
-      "cash": 0,
+      "cash": 2039938,
       "retainedEarnings": 0,
-      "liabilities": 0,
-      "shareholderDebt": 0
+      "liabilities": 1157273,
+      "shareholderDebt": 1098185,
+      "employees": 30
+    },
+    {
+      "year": 2023,
+      "totalAssets": 3627322,
+      "cash": 1796764,
+      "retainedEarnings": 0,
+      "liabilities": 2022048,
+      "shareholderDebt": 1646767,
+      "_note_retainedEarnings": "KG-Struktur: Bilanzgewinn immer 0 da Gewinne an Gesellschafter ausgeschüttet"
     },
     {
       "year": 2022,
-      "totalAssets": 3627322,
-      "cash": 0,
+      "totalAssets": 1544963,
+      "cash": 1196228,
       "retainedEarnings": 0,
-      "liabilities": 0,
-      "shareholderDebt": 0
+      "liabilities": 1011119,
+      "shareholderDebt": 927339,
+      "employees": 22
     },
     {
       "year": 2021,
-      "totalAssets": 0,
-      "cash": 0,
+      "totalAssets": 1487267,
+      "cash": 981235,
       "retainedEarnings": 0,
-      "liabilities": 0,
-      "shareholderDebt": 0,
-      "_note": "Jahresabschluss 2021 beim Bundesanzeiger hinterlegt, Bilanzsumme nicht frei zugänglich"
+      "liabilities": 1327941,
+      "shareholderDebt": 1275261
     }
   ],
   "openPositions": [
@@ -255,9 +264,9 @@
     "source": "Bundesagentur für Arbeit, Jahresbilanz 2024 (Kreis Paderborn)"
   },
   "financialsStory": [
-    "Die Bilanzsumme ist von 3,6 Mio. € (2022) auf 2,4 Mio. € (2023) gefallen — ein Rückgang von 33%. Das deutet auf hohe Ausschüttungen, Investitionen oder einen Bilanzumbau hin.",
-    "Detaillierte Positionen (Kassenbestand, Bilanzgewinn, Verbindlichkeiten) konnten aus öffentlich zugänglichen Quellen nicht verifiziert werden. Diese Daten müssen vor der Präsentation aus dem Bundesanzeiger nachgetragen werden.",
-    "Das eigentliche Risiko ist nicht die Bilanz, sondern die strategische Position: 34 Mitarbeiter mit einer Desktop-Software gegen Siemens (Konzern), Dassault (Konzern) und MPDV (530 Mitarbeiter mit eigener AI-Tochter). Fünf offene Stellen zeigen, dass das Wachstum an Personal scheitert."
+    "Explosive Wachstumsphase 2023: Bilanzsumme stieg von 1,5 Mio. € (2022) auf 3,6 Mio. € (2023), getrieben durch 1,8 Mio. € Forderungen. 2024 normalisierte sich die Bilanz auf 2,4 Mio. € — Forderungen abgebaut, Kassenbestand auf 2,0 Mio. € verdoppelt.",
+    "Gesellschafterdarlehen dominieren die Bilanz: 1,1 Mio. € von 1,2 Mio. € Verbindlichkeiten (2024) sind Darlehen der Gesellschafter. Als GmbH & Co. KG wird der Bilanzgewinn immer ausgeschüttet — Rücklagen bleiben konstant bei 25.000 €. Das echte Ergebnis fließt über die Privatkonten der Gesellschafter.",
+    "Von 22 Mitarbeitern (2022) auf 30 (2024) gewachsen — +36% in zwei Jahren. Aber 5 offene Stellen bei 34 aktuellen Mitarbeitern zeigen: Die strategische Position gegen Siemens, Dassault und MPDV (530 Mitarbeiter mit eigener KI-Tochter) bleibt das eigentliche Risiko."
   ],
   "plan": [
     {
@@ -298,8 +307,8 @@
     }
   ],
   "killerInsight": {
-    "text": "Bilanzsumme 2023: 2,4 Mio. € (−33% zum Vorjahr). 5 offene Stellen bei 34 Mitarbeitern. Und die Konkurrenz heißt Siemens, Dassault und MPDV mit eigener KI-Tochter.",
-    "source": "Implisense/North Data (Jahresabschluss 2023), taktiq.de/jobs (März 2026)"
+    "text": "Bilanzsumme 2024: 2,4 Mio. € (−33% zum Vorjahr). 1,1 Mio. € Gesellschafterdarlehen bei 1,2 Mio. € Gesamtverbindlichkeiten. 5 offene Stellen bei 34 Mitarbeitern. Und die Konkurrenz heißt Siemens, Dassault und MPDV mit eigener KI-Tochter.",
+    "source": "Unternehmensregister Jahresabschluss 2024, taktiq.de/jobs (März 2026)"
   },
   "pitchType": "profitable-small",
   "accent": "#007388",

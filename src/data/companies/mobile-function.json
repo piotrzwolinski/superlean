@@ -17,9 +17,9 @@
   },
   "founded": 2011,
   "employees": {
-    "current": 25,
-    "previous": 19,
-    "previousYear": 2021
+    "current": 27,
+    "previous": 22,
+    "previousYear": 2023
   },
   "product": {
     "name": "ENGINE4",
@@ -59,14 +59,41 @@
     "since": null
   },
   "financials": {
-    "year": 2021,
-    "totalAssets": 499781,
-    "cash": 129614,
-    "retainedEarnings": 126946,
-    "liabilities": 328335,
-    "shareholderDebt": 292228
+    "year": 2024,
+    "totalAssets": 1233851,
+    "cash": 982974,
+    "retainedEarnings": 600686,
+    "liabilities": 533777,
+    "shareholderDebt": 128992
   },
   "financialsHistory": [
+    {
+      "year": 2024,
+      "totalAssets": 1233851,
+      "cash": 982974,
+      "retainedEarnings": 600686,
+      "liabilities": 533777,
+      "shareholderDebt": 128992,
+      "employees": 27
+    },
+    {
+      "year": 2023,
+      "totalAssets": 1285883,
+      "cash": 808845,
+      "retainedEarnings": 840248,
+      "liabilities": 191721,
+      "shareholderDebt": 102377,
+      "employees": 22
+    },
+    {
+      "year": 2022,
+      "totalAssets": 569980,
+      "cash": 300725,
+      "retainedEarnings": 225205,
+      "liabilities": 298648,
+      "shareholderDebt": 253778,
+      "employees": 17
+    },
     {
       "year": 2021,
       "totalAssets": 499781,
@@ -74,7 +101,7 @@
       "retainedEarnings": 126946,
       "liabilities": 328335,
       "shareholderDebt": 292228,
-      "employees": 19
+      "employees": 15
     },
     {
       "year": 2020,
@@ -84,14 +111,6 @@
       "liabilities": 417491,
       "shareholderDebt": 361948,
       "employees": 13
-    },
-    {
-      "year": 2019,
-      "totalAssets": 467000,
-      "cash": 350000,
-      "retainedEarnings": 160000,
-      "liabilities": 270000,
-      "shareholderDebt": 250000
     }
   ],
   "openPositions": [
@@ -229,13 +248,13 @@
       "Villingen-Schwenningen: 89.000 Einwohner im Schwarzwald — Talente pendeln nach Freiburg, Stuttgart oder in die Schweiz",
       "Jeder vierte Beschäftigte im Schwarzwald-Baar-Kreis ist 55+ — demografische Welle verschärft den Mangel bis 2030",
       "IT-Gehälter in Baden-Württemberg 15-20% unter München/Zürich — Grenzregion zur Schweiz macht Recruiting noch schwerer",
-      "6 offene Stellen bei 25 Mitarbeitern — das entspricht einer Vakanzquote von 24%"
+      "6 offene Stellen bei 27 Mitarbeitern — das entspricht einer Vakanzquote von 22%"
     ]
   },
   "kununu": null,
   "linkedinPresence": {
-    "employeeCount": 25,
-    "employeeGrowth": "+32% seit 2021 (von 19 auf 25)",
+    "employeeCount": 27,
+    "employeeGrowth": "+108% seit 2020 (von 13 auf 27)",
     "ceoLastPost": "Nicht regelmäßig aktiv",
     "ceoPostTopic": "Technologie und Field Service Management",
     "departures": [
@@ -262,9 +281,9 @@
     "source": "Bundesagentur für Arbeit, Engpassanalyse 2025 (Softwareentwicklung Experten)"
   },
   "financialsStory": [
-    "292.000 € Gesellschafterdarlehen bei 500.000 € Bilanzsumme — mehr als die Hälfte der Verbindlichkeiten sind Darlehen der Gründer. Die Firma finanziert sich über die Gesellschafter, nicht über Bankkredit.",
-    "Von 13 Mitarbeitern (2020) auf 25 heute — das Wachstum ist beeindruckend. Aber der Bilanzgewinn sank von 186.000 € auf 127.000 € im gleichen Zeitraum. Das Wachstum kostet Marge.",
-    "Jetzt hat Mitgründer Andreas Degen das Unternehmen verlassen (September 2024). Benjamin Hauser steht allein an der Spitze — mit 6 offenen Stellen und Konkurrenten wie SAP, Salesforce und IFS, die Milliarden in KI investieren."
+    "Bilanzsumme hat sich in zwei Jahren mehr als verdoppelt: von 570.000 € (2022) auf 1,29 Mio. € (2023) und 1,23 Mio. € (2024). Das Unternehmen wächst massiv — von 13 Mitarbeitern (2020) auf 27 (2024).",
+    "Bilanzgewinn erreichte 2023 einen Höchststand von 840.000 €, fiel 2024 aber auf 601.000 € — ein Rückgang von 29%. Die Verbindlichkeiten stiegen gleichzeitig von 192.000 € auf 534.000 €. Das Wachstum kostet jetzt Marge.",
+    "Positive Entwicklung: Gesellschafterdarlehen sinken stetig — von 292.000 € (2021) auf 129.000 € (2024). Die Firma emanzipiert sich von den Gründerdarlehen. Aber nach dem Ausscheiden von Mitgründer Andreas Degen (September 2024) steht Benjamin Hauser allein an der Spitze — mit 6 offenen Stellen und Konkurrenten wie SAP, Salesforce und IFS, die Milliarden in KI investieren."
   ],
   "plan": [
     {
@@ -282,7 +301,7 @@
     {
       "title": "ENGINE4 DEVELOPMENT",
       "timeline": "Monat 3–9",
-      "tagline": "25 Mitarbeiter liefern wie 50.",
+      "tagline": "27 Mitarbeiter liefern wie 50.",
       "items": [
         "AI Pair Programming für .NET Core Backend und JavaScript Frontend — 2x Entwicklungsgeschwindigkeit",
         "Automatisierte T-SQL-Optimierung und Query-Generierung für ENGINE4-Datenbank",
@@ -305,8 +324,8 @@
     }
   ],
   "killerInsight": {
-    "text": "Mitgründer Andreas Degen hat Mobile Function im September 2024 verlassen. Benjamin Hauser führt das Unternehmen jetzt allein — mit 6 offenen Stellen, 292.000 € Gesellschafterdarlehen und Konkurrenten, die Milliarden in KI investieren.",
-    "source": "Handelsregister Freiburg HRB 712522 (11.09.2024), Bundesanzeiger Jahresabschluss 2021, Karriereseite mobile-function.com"
+    "text": "Mitgründer Andreas Degen hat Mobile Function im September 2024 verlassen. Benjamin Hauser führt das Unternehmen jetzt allein — mit 6 offenen Stellen, 129.000 € Gesellschafterdarlehen und Konkurrenten, die Milliarden in KI investieren. 2024 sank der Bilanzgewinn um 29% auf 601.000 € bei gleichzeitig fast verdreifachten Verbindlichkeiten.",
+    "source": "Handelsregister Freiburg HRB 712522 (11.09.2024), Unternehmensregister Jahresabschluss 2024, Karriereseite mobile-function.com"
   },
   "pitchType": "talent-bleeding",
   "accent": "#ec7405",
@@ -314,7 +333,7 @@
   "countdownReason": "Warum März 2028? SAP und Salesforce investieren jährlich Milliarden in KI-gestütztes Field Service Management. IFS wurde 2025 von Gartner als Leader ausgezeichnet. Bis 2028 wird KI-gestützte Einsatzplanung Standard sein — wer dann nicht dabei ist, verliert den Anschluss im Mittelstandsmarkt.",
   "endgameScenarioA": [
     "SAP hat Einstein AI für Field Service, Salesforce automatisiert die Einsatzplanung per KI, IFS ist Gartner Leader. Alle drei investieren Milliarden in Predictive Maintenance und IoT-Integration.",
-    "ENGINE4 basiert auf Cordova für Mobile-Apps — eine Technologie, die seit Jahren an Relevanz verliert. 6 offene Stellen bei 25 Mitarbeitern. Ihr Mitgründer hat das Unternehmen verlassen. Die Entwicklungskapazität stagniert, während der Funktionsrückstand wächst.",
+    "ENGINE4 basiert auf Cordova für Mobile-Apps — eine Technologie, die seit Jahren an Relevanz verliert. 6 offene Stellen bei 27 Mitarbeitern. Ihr Mitgründer hat das Unternehmen verlassen. Die Entwicklungskapazität stagniert, während der Funktionsrückstand wächst.",
     "Ihre Kunden — KONE, REWE, Holcim — vergleichen ENGINE4 mit Lösungen, die KI-gestützte Einsatzplanung und Predictive Maintenance bieten. Der Mittelstandsvorsprung durch individuelle Anpassung schmilzt, wenn Konzernlösungen das gleiche per Low-Code können."
   ],
   "ctaEmail": "",
